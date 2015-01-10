@@ -1,0 +1,11 @@
+2015-01-10 20:31:11,531 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-10 20:31:12,485 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Agent/src/main/java
+2015-01-10 20:31:12,513 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Agent/src/main/resources
+2015-01-10 20:31:12,514 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Agent/src/test/java
+2015-01-10 20:31:12,514 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Agent/src/test/resources
+2015-01-10 20:31:14,114 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-10 20:31:24,389 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-10 20:31:24,893 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-10 20:31:24,943 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-01-10 20:31:24,946 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-10 20:31:24,947 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
