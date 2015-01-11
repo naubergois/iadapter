@@ -9,3 +9,422 @@
 2015-01-10 20:31:24,943 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2015-01-10 20:31:24,946 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
 2015-01-10 20:31:24,947 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-01-11 01:01:11,228 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sourceforge/nekohtml/nekohtml/1.9.21/nekohtml-1.9.21.pom
+2015-01-11 01:01:11,490 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sourceforge/nekohtml/nekohtml/1.9.21/nekohtml-1.9.21.pom
+2015-01-11 01:01:12,148 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/net/sourceforge/cssparser/cssparser/0.9.14/cssparser-0.9.14.pom
+2015-01-11 01:01:12,414 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.14/cssparser-0.9.14.pom
+2015-01-11 01:01:13,008 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.14/cssparser-0.9.14.pom
+2015-01-11 01:01:13,974 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/eclipse/jetty/jetty-websocket/8.1.15.v20140411/jetty-websocket-8.1.15.v20140411.pom
+2015-01-11 01:01:14,108 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-websocket/8.1.15.v20140411/jetty-websocket-8.1.15.v20140411.pom
+2015-01-11 01:01:14,382 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-websocket/8.1.15.v20140411/jetty-websocket-8.1.15.v20140411.pom
+2015-01-11 01:01:15,179 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/eclipse/jetty/jetty-project/8.1.15.v20140411/jetty-project-8.1.15.v20140411.pom
+2015-01-11 01:01:15,380 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-project/8.1.15.v20140411/jetty-project-8.1.15.v20140411.pom
+2015-01-11 01:01:15,830 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-project/8.1.15.v20140411/jetty-project-8.1.15.v20140411.pom
+2015-01-11 01:01:16,747 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/eclipse/jetty/jetty-util/8.1.15.v20140411/jetty-util-8.1.15.v20140411.pom
+2015-01-11 01:01:16,901 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/8.1.15.v20140411/jetty-util-8.1.15.v20140411.pom
+2015-01-11 01:01:17,285 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/8.1.15.v20140411/jetty-util-8.1.15.v20140411.pom
+2015-01-11 01:01:18,198 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/eclipse/jetty/jetty-io/8.1.15.v20140411/jetty-io-8.1.15.v20140411.pom
+2015-01-11 01:01:18,465 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/8.1.15.v20140411/jetty-io-8.1.15.v20140411.pom
+2015-01-11 01:01:18,883 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/8.1.15.v20140411/jetty-io-8.1.15.v20140411.pom
+2015-01-11 01:01:19,834 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/eclipse/jetty/jetty-http/8.1.15.v20140411/jetty-http-8.1.15.v20140411.pom
+2015-01-11 01:01:20,135 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/8.1.15.v20140411/jetty-http-8.1.15.v20140411.pom
+2015-01-11 01:01:20,712 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/8.1.15.v20140411/jetty-http-8.1.15.v20140411.pom
+2015-01-11 01:01:21,761 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/seleniumhq/selenium/selenium-firefox-driver/2.44.0/selenium-firefox-driver-2.44.0.pom
+2015-01-11 01:01:22,081 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.44.0/selenium-firefox-driver-2.44.0.pom
+2015-01-11 01:01:22,900 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.44.0/selenium-firefox-driver-2.44.0.pom
+2015-01-11 01:01:23,902 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/seleniumhq/selenium/selenium-ie-driver/2.44.0/selenium-ie-driver-2.44.0.pom
+2015-01-11 01:01:24,032 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.44.0/selenium-ie-driver-2.44.0.pom
+2015-01-11 01:01:24,225 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.44.0/selenium-ie-driver-2.44.0.pom
+2015-01-11 01:01:24,883 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/seleniumhq/selenium/selenium-safari-driver/2.44.0/selenium-safari-driver-2.44.0.pom
+2015-01-11 01:01:25,051 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.44.0/selenium-safari-driver-2.44.0.pom
+2015-01-11 01:01:25,360 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.44.0/selenium-safari-driver-2.44.0.pom
+2015-01-11 01:01:26,111 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/seleniumhq/selenium/selenium-support/2.44.0/selenium-support-2.44.0.pom
+2015-01-11 01:01:26,426 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/2.44.0/selenium-support-2.44.0.pom
+2015-01-11 01:01:26,981 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/2.44.0/selenium-support-2.44.0.pom
+2015-01-11 01:01:27,900 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/seleniumhq/selenium/selenium-java/2.44.0/selenium-java-2.44.0.jar
+2015-01-11 01:01:28,847 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/seleniumhq/selenium/selenium-chrome-driver/2.44.0/selenium-chrome-driver-2.44.0.jar
+2015-01-11 01:01:29,679 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/seleniumhq/selenium/selenium-remote-driver/2.44.0/selenium-remote-driver-2.44.0.jar
+2015-01-11 01:01:30,349 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/com/google/code/gson/gson/2.3/gson-2.3.jar
+2015-01-11 01:01:31,119 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/seleniumhq/selenium/selenium-api/2.44.0/selenium-api-2.44.0.jar
+2015-01-11 01:01:31,939 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/com/google/guava/guava/18.0/guava-18.0.jar
+2015-01-11 01:01:32,898 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/seleniumhq/selenium/selenium-htmlunit-driver/2.44.0/selenium-htmlunit-driver-2.44.0.jar
+2015-01-11 01:01:33,582 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/net/sourceforge/htmlunit/htmlunit/2.15/htmlunit-2.15.jar
+2015-01-11 01:01:34,365 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+2015-01-11 01:01:35,260 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/httpcomponents/httpmime/4.3.3/httpmime-4.3.3.jar
+2015-01-11 01:01:36,046 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/net/sourceforge/htmlunit/htmlunit-core-js/2.15/htmlunit-core-js-2.15.jar
+2015-01-11 01:01:36,921 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/net/sourceforge/nekohtml/nekohtml/1.9.21/nekohtml-1.9.21.jar
+2015-01-11 01:01:37,722 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/net/sourceforge/cssparser/cssparser/0.9.14/cssparser-0.9.14.jar
+2015-01-11 01:01:38,753 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/eclipse/jetty/jetty-websocket/8.1.15.v20140411/jetty-websocket-8.1.15.v20140411.jar
+2015-01-11 01:01:39,505 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/eclipse/jetty/jetty-util/8.1.15.v20140411/jetty-util-8.1.15.v20140411.jar
+2015-01-11 01:01:40,289 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/eclipse/jetty/jetty-io/8.1.15.v20140411/jetty-io-8.1.15.v20140411.jar
+2015-01-11 01:01:41,318 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/eclipse/jetty/jetty-http/8.1.15.v20140411/jetty-http-8.1.15.v20140411.jar
+2015-01-11 01:01:42,065 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.jar
+2015-01-11 01:01:42,831 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+2015-01-11 01:01:43,531 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/seleniumhq/selenium/selenium-firefox-driver/2.44.0/selenium-firefox-driver-2.44.0.jar
+2015-01-11 01:01:44,412 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/seleniumhq/selenium/selenium-ie-driver/2.44.0/selenium-ie-driver-2.44.0.jar
+2015-01-11 01:01:45,289 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/seleniumhq/selenium/selenium-safari-driver/2.44.0/selenium-safari-driver-2.44.0.jar
+2015-01-11 01:01:46,028 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/seleniumhq/selenium/selenium-support/2.44.0/selenium-support-2.44.0.jar
+2015-01-11 01:01:46,921 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/2.44.0/selenium-java-2.44.0.jar
+2015-01-11 01:01:49,636 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/2.44.0/selenium-java-2.44.0.jar
+2015-01-11 01:01:49,887 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/2.44.0/selenium-chrome-driver-2.44.0.jar
+2015-01-11 01:01:50,332 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/2.44.0/selenium-chrome-driver-2.44.0.jar
+2015-01-11 01:01:50,499 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/2.44.0/selenium-remote-driver-2.44.0.jar
+2015-01-11 01:01:51,588 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/2.44.0/selenium-remote-driver-2.44.0.jar
+2015-01-11 01:01:51,729 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3/gson-2.3.jar
+2015-01-11 01:01:52,267 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3/gson-2.3.jar
+2015-01-11 01:01:52,393 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/2.44.0/selenium-api-2.44.0.jar
+2015-01-11 01:01:52,869 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/2.44.0/selenium-api-2.44.0.jar
+2015-01-11 01:01:53,076 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0.jar
+2015-01-11 01:01:58,368 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0.jar
+2015-01-11 01:01:58,467 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.44.0/selenium-htmlunit-driver-2.44.0.jar
+2015-01-11 01:01:58,801 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.44.0/selenium-htmlunit-driver-2.44.0.jar
+2015-01-11 01:01:59,077 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit/2.15/htmlunit-2.15.jar
+2015-01-11 01:02:02,994 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit/2.15/htmlunit-2.15.jar
+2015-01-11 01:02:03,141 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+2015-01-11 01:02:03,702 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+2015-01-11 01:02:03,838 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.3.3/httpmime-4.3.3.jar
+2015-01-11 01:02:04,265 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.3.3/httpmime-4.3.3.jar
+2015-01-11 01:02:04,528 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit-core-js/2.15/htmlunit-core-js-2.15.jar
+2015-01-11 01:02:08,287 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit-core-js/2.15/htmlunit-core-js-2.15.jar
+2015-01-11 01:02:08,421 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sourceforge/nekohtml/nekohtml/1.9.21/nekohtml-1.9.21.jar
+2015-01-11 01:02:09,137 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sourceforge/nekohtml/nekohtml/1.9.21/nekohtml-1.9.21.jar
+2015-01-11 01:02:09,316 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.14/cssparser-0.9.14.jar
+2015-01-11 01:02:10,388 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.14/cssparser-0.9.14.jar
+2015-01-11 01:02:10,646 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-websocket/8.1.15.v20140411/jetty-websocket-8.1.15.v20140411.jar
+2015-01-11 01:02:12,243 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-websocket/8.1.15.v20140411/jetty-websocket-8.1.15.v20140411.jar
+2015-01-11 01:02:12,428 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/8.1.15.v20140411/jetty-util-8.1.15.v20140411.jar
+2015-01-11 01:02:13,665 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/8.1.15.v20140411/jetty-util-8.1.15.v20140411.jar
+2015-01-11 01:02:13,792 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/8.1.15.v20140411/jetty-io-8.1.15.v20140411.jar
+2015-01-11 01:02:14,222 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/8.1.15.v20140411/jetty-io-8.1.15.v20140411.jar
+2015-01-11 01:02:14,349 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/8.1.15.v20140411/jetty-http-8.1.15.v20140411.jar
+2015-01-11 01:02:14,817 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/8.1.15.v20140411/jetty-http-8.1.15.v20140411.jar
+2015-01-11 01:02:15,068 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.jar
+2015-01-11 01:02:16,374 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.jar
+2015-01-11 01:02:16,498 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+2015-01-11 01:02:16,984 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+2015-01-11 01:02:17,426 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.44.0/selenium-firefox-driver-2.44.0.jar
+2015-01-11 01:02:21,998 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.44.0/selenium-firefox-driver-2.44.0.jar
+2015-01-11 01:02:22,243 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.44.0/selenium-ie-driver-2.44.0.jar
+2015-01-11 01:02:22,738 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.44.0/selenium-ie-driver-2.44.0.jar
+2015-01-11 01:02:23,863 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.44.0/selenium-safari-driver-2.44.0.jar
+2015-01-11 01:02:25,877 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.44.0/selenium-safari-driver-2.44.0.jar
+2015-01-11 01:02:26,074 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/2.44.0/selenium-support-2.44.0.jar
+2015-01-11 01:02:28,030 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/2.44.0/selenium-support-2.44.0.jar
+2015-01-11 01:02:29,815 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:02:29,816 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:02:29,817 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:02:29,817 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:02:31,220 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-11 01:02:31,248 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:02:31,248 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:02:31,250 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:02:31,250 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:02:32,450 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:02:32,452 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:02:32,454 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:02:32,455 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:03:27,426 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:03:27,426 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:03:27,427 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:03:27,428 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:03:30,269 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:03:30,269 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:03:30,271 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:03:30,271 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:03:45,464 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/naubergois/iadapter/Agent
+2015-01-11 01:03:45,464 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-01-11 01:03:55,230 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:03:55,231 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:03:55,233 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:03:55,234 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:04:25,566 [Worker-36] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>"pom.xml"\n\t\t<d... @38:5) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>"pom.xml"\n\t\t<d... @38:5) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1121) ~[plexus-utils-3.0.17.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2193) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 26 common frames omitted
+2015-01-11 01:04:37,773 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-11 01:04:38,405 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:04:38,406 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:04:38,407 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:04:38,407 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:04:52,202 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:04:52,203 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:04:52,207 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:04:52,207 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:05:07,932 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:05:07,932 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:05:07,933 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:05:07,934 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:05:35,509 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:05:35,510 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:05:35,511 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:05:35,512 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:07:09,433 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:07:09,433 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:07:09,434 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:07:09,434 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:07:34,888 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-11 01:07:36,174 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/embed/tomcat-embed-core/7.0.34/tomcat-embed-core-7.0.34.pom
+2015-01-11 01:07:36,582 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/7.0.34/tomcat-embed-core-7.0.34.pom
+2015-01-11 01:07:36,964 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/7.0.34/tomcat-embed-core-7.0.34.pom
+2015-01-11 01:07:37,986 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.34/tomcat-embed-logging-juli-7.0.34.pom
+2015-01-11 01:07:38,141 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.34/tomcat-embed-logging-juli-7.0.34.pom
+2015-01-11 01:07:38,336 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.34/tomcat-embed-logging-juli-7.0.34.pom
+2015-01-11 01:07:39,040 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/embed/tomcat-embed-jasper/7.0.34/tomcat-embed-jasper-7.0.34.pom
+2015-01-11 01:07:39,299 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/7.0.34/tomcat-embed-jasper-7.0.34.pom
+2015-01-11 01:07:39,734 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/7.0.34/tomcat-embed-jasper-7.0.34.pom
+2015-01-11 01:07:40,649 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2.pom
+2015-01-11 01:07:40,877 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2.pom
+2015-01-11 01:07:41,358 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2.pom
+2015-01-11 01:07:42,424 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-jasper/7.0.34/tomcat-jasper-7.0.34.pom
+2015-01-11 01:07:42,655 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/7.0.34/tomcat-jasper-7.0.34.pom
+2015-01-11 01:07:42,987 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/7.0.34/tomcat-jasper-7.0.34.pom
+2015-01-11 01:07:43,988 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-servlet-api/7.0.34/tomcat-servlet-api-7.0.34.pom
+2015-01-11 01:07:44,250 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/7.0.34/tomcat-servlet-api-7.0.34.pom
+2015-01-11 01:07:44,688 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/7.0.34/tomcat-servlet-api-7.0.34.pom
+2015-01-11 01:07:45,620 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-juli/7.0.34/tomcat-juli-7.0.34.pom
+2015-01-11 01:07:45,883 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.34/tomcat-juli-7.0.34.pom
+2015-01-11 01:07:46,199 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.34/tomcat-juli-7.0.34.pom
+2015-01-11 01:07:46,919 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-jsp-api/7.0.34/tomcat-jsp-api-7.0.34.pom
+2015-01-11 01:07:47,090 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/7.0.34/tomcat-jsp-api-7.0.34.pom
+2015-01-11 01:07:47,445 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/7.0.34/tomcat-jsp-api-7.0.34.pom
+2015-01-11 01:07:48,270 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-el-api/7.0.34/tomcat-el-api-7.0.34.pom
+2015-01-11 01:07:48,538 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-el-api/7.0.34/tomcat-el-api-7.0.34.pom
+2015-01-11 01:07:49,054 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-el-api/7.0.34/tomcat-el-api-7.0.34.pom
+2015-01-11 01:07:50,085 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/eclipse/jdt/core/compiler/ecj/4.2.1/ecj-4.2.1.pom
+2015-01-11 01:07:50,352 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.2.1/ecj-4.2.1.pom
+2015-01-11 01:07:50,770 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.2.1/ecj-4.2.1.pom
+2015-01-11 01:07:51,543 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-jasper-el/7.0.34/tomcat-jasper-el-7.0.34.pom
+2015-01-11 01:07:51,710 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper-el/7.0.34/tomcat-jasper-el-7.0.34.pom
+2015-01-11 01:07:52,172 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper-el/7.0.34/tomcat-jasper-el-7.0.34.pom
+2015-01-11 01:07:53,230 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-api/7.0.34/tomcat-api-7.0.34.pom
+2015-01-11 01:07:53,533 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-api/7.0.34/tomcat-api-7.0.34.pom
+2015-01-11 01:07:54,465 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-api/7.0.34/tomcat-api-7.0.34.pom
+2015-01-11 01:07:55,200 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-util/7.0.34/tomcat-util-7.0.34.pom
+2015-01-11 01:07:55,468 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-util/7.0.34/tomcat-util-7.0.34.pom
+2015-01-11 01:07:55,873 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-util/7.0.34/tomcat-util-7.0.34.pom
+2015-01-11 01:07:56,734 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/embed/tomcat-embed-core/7.0.34/tomcat-embed-core-7.0.34.jar
+2015-01-11 01:07:57,385 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.34/tomcat-embed-logging-juli-7.0.34.jar
+2015-01-11 01:07:58,100 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/embed/tomcat-embed-jasper/7.0.34/tomcat-embed-jasper-7.0.34.jar
+2015-01-11 01:08:00,292 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2.jar
+2015-01-11 01:08:01,251 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-jasper/7.0.34/tomcat-jasper-7.0.34.jar
+2015-01-11 01:08:02,060 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-servlet-api/7.0.34/tomcat-servlet-api-7.0.34.jar
+2015-01-11 01:08:02,974 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-juli/7.0.34/tomcat-juli-7.0.34.jar
+2015-01-11 01:08:03,801 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-el-api/7.0.34/tomcat-el-api-7.0.34.jar
+2015-01-11 01:08:04,807 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-api/7.0.34/tomcat-api-7.0.34.jar
+2015-01-11 01:08:07,004 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-util/7.0.34/tomcat-util-7.0.34.jar
+2015-01-11 01:08:07,729 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-jasper-el/7.0.34/tomcat-jasper-el-7.0.34.jar
+2015-01-11 01:08:08,732 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tomcat/tomcat-jsp-api/7.0.34/tomcat-jsp-api-7.0.34.jar
+2015-01-11 01:08:09,742 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/7.0.34/tomcat-embed-core-7.0.34.jar
+2015-01-11 01:08:17,478 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/7.0.34/tomcat-embed-core-7.0.34.jar
+2015-01-11 01:08:17,699 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.34/tomcat-embed-logging-juli-7.0.34.jar
+2015-01-11 01:08:18,478 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.34/tomcat-embed-logging-juli-7.0.34.jar
+2015-01-11 01:08:18,605 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/7.0.34/tomcat-embed-jasper-7.0.34.jar
+2015-01-11 01:08:20,109 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/7.0.34/tomcat-embed-jasper-7.0.34.jar
+2015-01-11 01:08:20,254 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2.jar
+2015-01-11 01:08:23,634 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2.jar
+2015-01-11 01:08:23,879 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/7.0.34/tomcat-jasper-7.0.34.jar
+2015-01-11 01:08:25,233 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/7.0.34/tomcat-jasper-7.0.34.jar
+2015-01-11 01:08:25,377 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/7.0.34/tomcat-servlet-api-7.0.34.jar
+2015-01-11 01:08:25,902 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/7.0.34/tomcat-servlet-api-7.0.34.jar
+2015-01-11 01:08:26,028 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.34/tomcat-juli-7.0.34.jar
+2015-01-11 01:08:26,531 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.34/tomcat-juli-7.0.34.jar
+2015-01-11 01:08:26,812 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-el-api/7.0.34/tomcat-el-api-7.0.34.jar
+2015-01-11 01:08:27,221 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-el-api/7.0.34/tomcat-el-api-7.0.34.jar
+2015-01-11 01:08:27,390 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-api/7.0.34/tomcat-api-7.0.34.jar
+2015-01-11 01:08:27,704 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-api/7.0.34/tomcat-api-7.0.34.jar
+2015-01-11 01:08:27,916 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-util/7.0.34/tomcat-util-7.0.34.jar
+2015-01-11 01:08:28,294 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-util/7.0.34/tomcat-util-7.0.34.jar
+2015-01-11 01:08:28,484 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper-el/7.0.34/tomcat-jasper-el-7.0.34.jar
+2015-01-11 01:08:29,182 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper-el/7.0.34/tomcat-jasper-el-7.0.34.jar
+2015-01-11 01:08:29,345 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/7.0.34/tomcat-jsp-api-7.0.34.jar
+2015-01-11 01:08:29,801 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/7.0.34/tomcat-jsp-api-7.0.34.jar
+2015-01-11 01:08:30,180 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:08:30,181 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:08:30,182 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:08:30,182 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:08:32,009 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-11 01:08:32,298 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:08:32,299 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:08:32,300 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:08:32,300 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:10:30,061 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/mojo/appassembler-maven-plugin/1.1.1/appassembler-maven-plugin-1.1.1.jar
+2015-01-11 01:10:33,396 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/mojo/appassembler-maven-plugin/1.1.1/appassembler-maven-plugin-1.1.1.jar
+2015-01-11 01:10:34,036 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-11 01:10:34,403 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:10:34,403 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:10:34,404 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:10:34,405 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:10:35,591 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-11 01:10:35,891 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:10:35,891 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:10:35,892 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:10:35,893 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:11:56,694 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:11:56,716 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:11:56,719 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:11:56,720 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:13:36,590 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:13:36,614 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:13:36,616 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:13:36,616 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:13:39,109 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:13:39,109 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:13:39,111 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:13:39,111 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:14:25,006 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:14:25,006 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:14:25,007 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:14:25,008 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:14:33,993 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:14:33,993 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:14:33,994 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:14:33,995 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:15:33,351 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:15:33,352 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:15:33,353 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:15:33,354 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:16:21,764 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:16:21,765 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:16:21,766 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:16:21,767 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:16:33,901 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:16:33,901 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:16:33,902 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:16:33,902 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:17:18,396 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:17:18,397 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:17:18,398 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:17:18,399 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:20:54,936 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:20:54,936 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:20:54,938 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:20:54,938 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:24:57,058 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:24:57,072 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:24:57,073 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:24:57,080 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:25:29,800 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:25:29,837 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:25:29,838 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:25:29,855 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:25:32,194 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:25:32,195 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:25:32,196 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:25:32,197 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:26:51,692 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:26:51,692 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:26:51,693 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:26:51,694 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:30:34,148 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:30:34,149 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:30:34,150 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:30:34,150 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:31:15,304 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:31:15,305 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:31:15,306 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:31:15,306 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:31:40,631 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:31:40,632 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:31:40,633 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:31:40,634 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:32:47,737 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-01-11 01:32:51,525 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/naubergois/iadapter/Agent
+2015-01-11 01:32:51,525 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2015-01-11 01:34:19,241 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:34:19,267 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:34:19,268 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:34:19,275 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:34:22,406 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:34:22,406 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:34:22,407 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:34:22,408 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:34:43,465 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:34:43,465 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:34:43,467 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:34:43,467 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:35:07,270 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-11 01:35:07,622 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:35:07,623 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:35:07,624 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:35:07,625 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:35:22,001 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:35:22,041 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:35:22,043 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:35:22,043 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:35:52,416 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-01-11 01:35:52,465 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-11 01:35:52,764 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Agent/src/main/java
+2015-01-11 01:35:52,764 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Agent/src/test/java
+2015-01-11 01:35:54,241 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-11 01:35:54,348 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-01-11 01:35:54,779 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:35:54,780 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:35:54,781 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:35:54,782 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:37:00,206 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:37:00,207 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:37:00,208 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:37:00,208 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:37:13,937 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:37:13,938 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:37:13,939 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:37:13,939 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:39:50,345 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:39:50,346 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:39:50,348 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:39:50,348 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:39:52,287 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:39:52,287 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:39:52,289 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:39:52,293 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:41:10,445 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:41:10,445 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:41:10,446 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:41:10,447 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:41:32,084 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:41:32,084 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:41:32,085 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:41:32,086 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:42:25,583 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:42:25,583 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:42:25,584 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:42:25,584 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-11 01:44:25,930 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:44:25,965 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-11 01:44:25,967 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 01:44:25,973 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources

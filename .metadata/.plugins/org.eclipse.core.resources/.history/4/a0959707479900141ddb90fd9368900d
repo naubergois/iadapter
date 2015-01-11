@@ -1,0 +1,14 @@
+package br.nauber.iadapter.function;
+
+
+public class TimeFitFuncion extends FitnessFunction {
+
+	@Override
+	protected double evaluate(IChromosome a_subject) {
+		// TODO Auto-generated method stub
+		
+
+		return 0;
+	}
+
+}

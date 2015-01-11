@@ -1,0 +1,176 @@
+package br.nauber.iadapter.function;
+
+import java.io.File;
+
+import org.apache.catalina.startup.Tomcat;
+import org.jgap.Configuration;
+import org.jgap.Gene;
+import org.jgap.IChromosome;
+import org.jgap.IGeneConstraintChecker;
+import org.jgap.InvalidConfigurationException;
+
+public class TomCatChromossome implements IChromosome{
+	
+ public TomCatChromossome() {
+	 
+	 try {
+			String webappDirLocation = "src/main/webapp/";
+			Tomcat tomcat = new Tomcat();
+
+			// The port that we should run on can be set into an environment
+			// variable
+			// Look for that variable and default to 8080 if it isn't there.
+			String webPort = System.getenv("PORT");
+			if (webPort == null || webPort.isEmpty()) {
+				webPort = "8080";
+			}
+
+			tomcat.setPort(Integer.valueOf(webPort));
+
+			tomcat.addWebapp("/", new File(webappDirLocation).getAbsolutePath());
+			System.out.println("configuring app with basedir: "
+					+ new File("./" + webappDirLocation).getAbsolutePath());
+
+			tomcat.start();
+			tomcat.getServer().await();
+
+		} catch (Exception e) {
+
+		}
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public Object clone()  {
+		// TODO Auto-generated method stub
+		try {
+			return super.clone();
+		} catch (CloneNotSupportedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return null;
+	}
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	public int compareTo(Object o) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	public Gene getGene(int a_desiredLocus) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Gene[] getGenes() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void setGenes(Gene[] a_genes) throws InvalidConfigurationException {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public int size() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	public void setFitnessValue(double a_newFitnessValue) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setFitnessValueDirectly(double a_newFitnessValue) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public double getFitnessValue() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	public double getFitnessValueDirectly() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	public void setIsSelectedForNextGeneration(boolean a_isSelected) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public boolean isSelectedForNextGeneration() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public void setConstraintChecker(IGeneConstraintChecker a_constraintChecker)
+			throws InvalidConfigurationException {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setApplicationData(Object a_newData) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public Object getApplicationData() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void cleanup() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public Configuration getConfiguration() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void increaseAge() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void resetAge() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setAge(int a_age) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public int getAge() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	public void increaseOperatedOn() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void resetOperatedOn() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public int operatedOn() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
