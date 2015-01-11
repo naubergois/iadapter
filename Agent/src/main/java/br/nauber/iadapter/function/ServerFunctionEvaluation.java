@@ -10,9 +10,28 @@ public class ServerFunctionEvaluation extends FitnessFunction {
 
 	@Override
 	protected double evaluate(IChromosome a_subject) {
-		
 
-		return Judge.getResponseTime();
+		long timeInit = System.currentTimeMillis();
+
+		TomCatServer tomcat = new TomCatServer();
+
+		int porta = (Integer) a_subject.getGenes()[0].getAllele();
+
+		System.out.println(porta);
+		tomcat.setPorta((Integer) a_subject.getGenes()[0].getAllele());
+		tomcat.setTimeout((Integer) a_subject.getGenes()[1].getAllele());
+		tomcat.start();
+
+		SeleniumScript script = new SeleniumScript(porta);
+
+		long timeEnd = System.currentTimeMillis();
+		long value= timeEnd - timeInit;
+		
+		
+		tomcat.stop();
+		return value;
+		
+		
 	}
 
 }
