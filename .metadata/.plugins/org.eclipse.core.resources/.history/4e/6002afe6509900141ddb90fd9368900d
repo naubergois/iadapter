@@ -1,0 +1,175 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Configuration;
+import org.jgap.Gene;
+import org.jgap.IChromosome;
+import org.jgap.IGeneConstraintChecker;
+import org.jgap.InvalidConfigurationException;
+
+public class TestChromossome implements IChromosome {
+	
+	
+	 public TestChromossome() {
+		
+		MySQLServer mysql=new MySQLServer();
+		mysql.start();
+		
+		TomCatServer tomcat=new TomCatServer();
+		tomcat.start();
+		
+		
+	
+	}
+
+	@Override
+	public Object clone()  {
+		// TODO Auto-generated method stub
+		try {
+			return super.clone();
+		} catch (CloneNotSupportedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return null;
+	}
+
+	@Override
+	public int compareTo(Object arg0) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public Gene getGene(int a_desiredLocus) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Gene[] getGenes() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void setGenes(Gene[] a_genes) throws InvalidConfigurationException {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public int size() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void setFitnessValue(double a_newFitnessValue) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void setFitnessValueDirectly(double a_newFitnessValue) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public double getFitnessValue() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double getFitnessValueDirectly() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void setIsSelectedForNextGeneration(boolean a_isSelected) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public boolean isSelectedForNextGeneration() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void setConstraintChecker(IGeneConstraintChecker a_constraintChecker)
+			throws InvalidConfigurationException {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void setApplicationData(Object a_newData) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Object getApplicationData() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void cleanup() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Configuration getConfiguration() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void increaseAge() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void resetAge() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void setAge(int a_age) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public int getAge() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void increaseOperatedOn() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void resetOperatedOn() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public int operatedOn() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

@@ -1,0 +1,127 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Configuration;
+import org.jgap.Gene;
+import org.jgap.IGeneConstraintChecker;
+import org.jgap.RandomGenerator;
+import org.jgap.UnsupportedRepresentationException;
+
+public class TestGene implements Gene {
+	
+	private double timeout;
+	
+	
+	
+
+	@Override
+	public int compareTo(Object arg0) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public Gene newGene() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void setAllele(Object a_newValue) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Object getAllele() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getPersistentRepresentation()
+			throws UnsupportedOperationException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void setValueFromPersistentRepresentation(String a_representation)
+			throws UnsupportedOperationException,
+			UnsupportedRepresentationException {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void setToRandomValue(RandomGenerator a_numberGenerator) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void cleanup() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public int size() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void applyMutation(int index, double a_percentage) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void setApplicationData(Object a_newData) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Object getApplicationData() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void setCompareApplicationData(boolean a_doCompare) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public boolean isCompareApplicationData() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public double getEnergy() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void setEnergy(double a_energy) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void setConstraintChecker(IGeneConstraintChecker a_constraintChecker) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Configuration getConfiguration() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

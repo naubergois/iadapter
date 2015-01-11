@@ -1,0 +1,49 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Configuration;
+import org.jgap.FitnessFunction;
+import org.jgap.Genotype;
+import org.jgap.InvalidConfigurationException;
+import org.jgap.impl.DefaultConfiguration;
+
+public class TomCatPopulation extends Thread{
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		super.run();
+		
+try {
+			
+			
+	Configuration conf = new DefaultConfiguration();
+			
+			
+			FitnessFunction myFunc = new ServerFunctionEvaluation();
+
+			conf.setFitnessFunction(myFunc);
+			
+			TomCatChromossome chromossome=new TomCatChromossome();
+			
+			conf.setSampleChromosome(chromossome);
+			
+			
+
+			conf.setPopulationSize(1);
+			
+
+			Genotype population = Genotype.randomInitialGenotype(conf);
+
+
+			population.evolve();
+
+
+		} catch (InvalidConfigurationException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	
+
+}

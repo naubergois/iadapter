@@ -1,0 +1,3 @@
+INDEX VERSION 1.127
+/Users/naubergois/iadapter/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2306751018.index
+/Agent/src/main/java

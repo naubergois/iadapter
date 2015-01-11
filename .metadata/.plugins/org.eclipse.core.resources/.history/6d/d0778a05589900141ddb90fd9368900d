@@ -1,0 +1,26 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Configuration;
+import org.jgap.FitnessFunction;
+import org.jgap.Genotype;
+import org.jgap.InvalidConfigurationException;
+import org.jgap.impl.DefaultConfiguration;
+
+public class Game {
+
+	public static void main(String[] args) {
+
+		Configuration conf = new DefaultConfiguration();
+		
+
+		// Set the fitness function we want to use, which is our
+		// MinimizingMakeChangeFitnessFunction that we created earlier.
+		// We construct it with the target amount of change provided
+		// by the user.
+		// ------------------------------------------------------------
+
+		
+
+	}
+
+}

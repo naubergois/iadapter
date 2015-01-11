@@ -1,0 +1,33 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Gene;
+import org.jgap.impl.IntegerGene;
+
+public class Game {
+
+	public static void main(String[] args) {
+		
+		
+		Gene[] sampleGenes = new Gene[ 4 ];
+
+		  sampleGenes[0] = new TestGene( 200, 9090 );  
+		  sampleGenes[1] = new TestGene( 201, 8080 );
+		  sampleGenes[2] = new TestGene( 2000, 7070 );
+		  sampleGenes[3] =new TestGene( 2001, 9091 );
+
+
+		TomCatPopulation population=new TomCatPopulation();
+		population.start();
+		
+
+		// Set the fitness function we want to use, which is our
+		// MinimizingMakeChangeFitnessFunction that we created earlier.
+		// We construct it with the target amount of change provided
+		// by the user.
+		// ------------------------------------------------------------
+
+		
+
+	}
+
+}
