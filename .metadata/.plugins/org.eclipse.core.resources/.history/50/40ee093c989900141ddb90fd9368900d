@@ -1,0 +1,130 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Chromosome;
+import org.jgap.IChromosome;
+
+public class Judge {
+
+	private static Game game;
+
+	public static void requestGame(Chromosome player1) {
+
+		if (game == null) {
+
+			game = new Game();
+
+		}
+		while (game.getNumberOfPlayers() > game.getNumberMaxPlayers()) {
+
+		}
+
+		game.setNumberOfPlayers(game.getNumberOfPlayers() + 1);
+
+		if (player1 instanceof IAtack) {
+			game.getAtacantes().add((IAtack) player1);
+		}
+
+		if (player1 instanceof IDefender) {
+			game.getDefensores().add((IDefender) player1);
+		}
+
+		if (game.getNumberOfPlayers() == game.getNumberMaxPlayers()) {
+
+			long max = Long.MIN_VALUE;
+
+			for (IDefender defensor : game.getDefensores()) {
+				defensor.running();
+			}
+
+			for (IAtack atack : game.getAtacantes()) {
+
+				long timeInit = System.currentTimeMillis();
+
+				atack.running();
+
+				long timeEnd = System.currentTimeMillis();
+
+				long value = timeEnd - timeInit;
+
+				if (value > max) {
+					max = value;
+				}
+
+			}
+			for (IDefender defensor : game.getDefensores()) {
+				((Chromosome) defensor).setFitnessValueDirectly(max);
+				for (IAtack atack : game.getAtacantes()) {
+
+					((Chromosome) atack).setFitnessValueDirectly(max);
+
+				}
+
+			}
+			
+			game.setNumberOfPlayers(0);
+
+		}
+
+	}
+
+	private static long bilheteDefensor = -1;
+
+	private static long bilheteAtacante;
+
+	public static long getBilheteDefensor() {
+		return bilheteDefensor;
+	}
+
+	public static void setBilheteDefensor(long bilheteDefensor) {
+		Judge.bilheteDefensor = bilheteDefensor;
+	}
+
+	public static long getBilheteAtacante() {
+		return bilheteAtacante;
+	}
+
+	public static void setBilheteAtacante(long bilheteAtacante) {
+		Judge.bilheteAtacante = bilheteAtacante;
+	}
+
+	private static double porta;
+
+	public static double getPorta() {
+		return porta;
+	}
+
+	public static void setPorta(double porta) {
+		Judge.porta = porta;
+	}
+
+	public static boolean waitPlayer;
+
+	public static boolean gameFinish;
+
+	public static boolean isGameFinish() {
+		return gameFinish;
+	}
+
+	public static void setGameFinish(boolean gameFinish) {
+		Judge.gameFinish = gameFinish;
+	}
+
+	public static boolean isWaitPlayer() {
+		return waitPlayer;
+	}
+
+	public static void setWaitPlayer(boolean waitPlayer) {
+		Judge.waitPlayer = waitPlayer;
+	}
+
+	private static double responseTime;
+
+	public static double getResponseTime() {
+		return responseTime;
+	}
+
+	public static void setResponseTime(double responseTime) {
+		Judge.responseTime = responseTime;
+	}
+
+}

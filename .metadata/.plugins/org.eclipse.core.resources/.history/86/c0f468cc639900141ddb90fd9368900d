@@ -1,0 +1,16 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Configuration;
+import org.jgap.impl.DefaultConfiguration;
+
+public class ScriptPopulation extends Thread {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		super.run();
+		
+		Configuration conf = new DefaultConfiguration();
+	}
+
+}

@@ -1,0 +1,42 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.FitnessFunction;
+import org.jgap.IChromosome;
+
+public class ScriptFunctionEvaluation extends FitnessFunction {
+
+	@Override
+	protected double evaluate(IChromosome a_subject) {
+
+		while (Judge.getBilheteDefensor()!=Judge.getBilheteAtacante()) {
+
+			//System.out.println("aguardando servidor " + Judge.getBilheteDefensor()+" "+Judge.getBilheteAtacante());
+		}
+
+		
+		System.out.println("servidor iniciado " + Judge.getBilheteDefensor()+" "+Judge.getBilheteAtacante());
+		long timeInit = System.currentTimeMillis();
+		
+		try{
+			Judge.setBilheteAtacante(Judge.getBilheteAtacante()+1);
+
+		SeleniumScript script = new SeleniumScript((int) Judge.getPorta());
+		}catch(Exception e){
+			e.printStackTrace();
+			
+		}
+
+		Judge.setGameFinish(true);
+		Judge.setWaitPlayer(false);
+
+		long timeEnd = System.currentTimeMillis();
+
+		System.out.println("teste finalizado " + Judge.getBilheteDefensor()+" "+Judge.getBilheteAtacante());
+		long value = timeEnd - timeInit;
+		// TODO Auto-generated method stub
+		Judge.setBilheteAtacante(Judge.getBilheteAtacante()-1);
+
+		return value;
+	}
+
+}

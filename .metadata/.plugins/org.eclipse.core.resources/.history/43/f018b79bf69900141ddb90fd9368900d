@@ -1,0 +1,9 @@
+package br.nauber.iadapter.function;
+
+public interface IDefender {
+	
+	public void running();
+	
+	public void stop();
+
+}

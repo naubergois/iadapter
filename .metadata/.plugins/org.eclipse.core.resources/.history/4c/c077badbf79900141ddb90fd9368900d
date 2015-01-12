@@ -1,0 +1,70 @@
+package br.nauber.iadapter.function;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.jgap.Chromosome;
+import org.jgap.Gene;
+
+public class Game {
+
+	private static int numberMaxPlayers;
+
+	public List<Chromosome> getAtacantes() {
+		return atacantes;
+	}
+
+	public void setAtacantes(List<Chromosome> atacantes) {
+		this.atacantes = atacantes;
+	}
+
+	public static int getNumberMaxPlayers() {
+		return numberMaxPlayers;
+	}
+
+	public static void setNumberMaxPlayers(int numberMaxPlayers) {
+		Game.numberMaxPlayers = numberMaxPlayers;
+	}
+
+	public List<Chromosome> getDefensores() {
+		return defensores;
+	}
+
+	public void setDefensores(List<Chromosome> defensores) {
+		this.defensores = defensores;
+	}
+
+	private int numberOfPlayers;
+
+	private List<Chromosome> atacantes=new ArrayList();
+	private List<Chromosome> defensores=new ArrayList();;
+
+	public int getNumberOfPlayers() {
+		return numberOfPlayers;
+	}
+
+	public void setNumberOfPlayers(int numberOfPlayers) {
+		this.numberOfPlayers = numberOfPlayers;
+	}
+
+	public static void main(String[] args) {
+
+		Gene[] sampleGenes = new Gene[4];
+
+		Game.setNumberMaxPlayers(2);
+
+		ScriptPopulation script = new ScriptPopulation();
+		script.start();
+
+		TomCatPopulation population = new TomCatPopulation();
+		population.start();
+
+		// Set the fitness function we want to use, which is our
+		// MinimizingMakeChangeFitnessFunction that we created earlier.
+		// We construct it with the target amount of change provided
+		// by the user.
+		// ------------------------------------------------------------
+
+	}
+
+}

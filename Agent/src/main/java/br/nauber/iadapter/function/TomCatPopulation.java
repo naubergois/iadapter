@@ -1,5 +1,6 @@
 package br.nauber.iadapter.function;
 
+import org.jgap.Chromosome;
 import org.jgap.Configuration;
 import org.jgap.FitnessFunction;
 import org.jgap.Gene;
@@ -30,27 +31,24 @@ public class TomCatPopulation extends Thread {
 			sampleGenes[0] = new IntegerGene(conf, 8080, 9090);
 			sampleGenes[1] = new IntegerGene(conf, 100, 9090);
 
-			TomCatChromossome chromossome = new TomCatChromossome(conf,
-					sampleGenes);
+			Chromosome chromossome = new Chromosome(conf, sampleGenes);
 
 			conf.setSampleChromosome(chromossome);
 
-			conf.setPopulationSize(20);
+			conf.setPopulationSize(3);
 
 			Genotype population = Genotype.randomInitialGenotype(conf);
+			
+			System.out.println(population.getChromosomes().length);
 
 			population.evolve();
-			
-			
+
 			IChromosome bestSolutionSoFar = population.getFittestChromosome();
-			
-			
-			System.out.println("A melhor configuracao Ž "+bestSolutionSoFar.getGenes()[1]+" para o timeout ");
-			System.out.println("A melhor configuracao Ž "+bestSolutionSoFar.getFitnessValue());
-			
-			
-			
-			
+
+			System.out.println("A melhor configuracao Ž "
+					+ bestSolutionSoFar.getGenes()[1] + " para o timeout ");
+			double tempo = Long.MAX_VALUE - bestSolutionSoFar.getFitnessValue();
+			System.out.println("A melhor configuracao Ž " + tempo);
 
 		} catch (InvalidConfigurationException e) {
 			// TODO Auto-generated catch block

@@ -1,0 +1,9 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Chromosome;
+
+public interface IAtack {
+
+	public void running(Chromosome chromosome);
+
+}

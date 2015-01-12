@@ -1,0 +1,66 @@
+package br.nauber.iadapter.function;
+
+public class Judge {
+	
+	private static long bilheteDefensor=-1;
+	
+	private static long bilheteAtacante;
+
+	public static long getBilheteDefensor() {
+		return bilheteDefensor;
+	}
+
+	public static void setBilheteDefensor(long bilheteDefensor) {
+		Judge.bilheteDefensor = bilheteDefensor;
+	}
+
+	public static long getBilheteAtacante() {
+		return bilheteAtacante;
+	}
+
+	public static void setBilheteAtacante(long bilheteAtacante) {
+		Judge.bilheteAtacante = bilheteAtacante;
+	}
+
+	private static double porta;
+	
+	public static double getPorta() {
+		return porta;
+	}
+
+	public static void setPorta(double porta) {
+		Judge.porta = porta;
+	}
+
+	public static boolean waitPlayer;
+	
+	public static boolean gameFinish;
+	
+	public static boolean isGameFinish() {
+		return gameFinish;
+	}
+
+	public static void setGameFinish(boolean gameFinish) {
+		Judge.gameFinish = gameFinish;
+	}
+
+	public static boolean isWaitPlayer() {
+		return waitPlayer;
+	}
+
+	public static void setWaitPlayer(boolean waitPlayer) {
+		Judge.waitPlayer = waitPlayer;
+	}
+
+	private static double responseTime;
+
+	public static double getResponseTime() {
+		return responseTime;
+	}
+
+	public static void setResponseTime(double responseTime) {
+		Judge.responseTime = responseTime;
+	}
+	
+
+}

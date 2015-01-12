@@ -1,0 +1,5 @@
+package br.nauber.iadapter.function;
+
+public interface IAtack {
+
+}

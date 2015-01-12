@@ -1,0 +1,42 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Chromosome;
+import org.jgap.Configuration;
+import org.jgap.Gene;
+import org.jgap.IChromosome;
+import org.jgap.IGeneConstraintChecker;
+import org.jgap.InvalidConfigurationException;
+
+public class TomCatChromossome extends Chromosome implements IPlayer, IDefender {
+
+	public TomCatChromossome(Configuration conf, Gene[] genes)
+			throws InvalidConfigurationException {
+
+		super(conf, genes);
+
+	}
+
+	@Override
+	public void running() {
+
+		TomCatServer tomcat = new TomCatServer();
+
+		int porta = (Integer) this.getGenes()[0].getAllele();
+
+		System.out.println(porta);
+		tomcat.setPorta((Integer) this.getGenes()[0].getAllele());
+		tomcat.setTimeout((Integer) this.getGenes()[1].getAllele());
+		System.out.println("servidor iniciado " + Judge.getBilheteDefensor()
+				+ " " + Judge.getBilheteAtacante());
+		tomcat.start();
+		Judge.setPorta(porta);
+
+	}
+
+	@Override
+	public void playerFuncion() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

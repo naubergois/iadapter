@@ -1,0 +1,31 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.FitnessFunction;
+import org.jgap.IChromosome;
+
+public class ScriptFunctionEvaluation extends FitnessFunction {
+
+	@Override
+	protected double evaluate(IChromosome a_subject) {
+
+		while (Judge.getBilheteDefensor()!=Judge.getBilheteAtacante()) {
+
+			System.out.println("aguardando servidor " + Judge.waitPlayer);
+		}
+
+		long timeInit = System.currentTimeMillis();
+
+		SeleniumScript script = new SeleniumScript((int) Judge.getPorta());
+
+		Judge.setGameFinish(true);
+		Judge.setWaitPlayer(false);
+
+		long timeEnd = System.currentTimeMillis();
+
+		long value = timeEnd - timeInit;
+		// TODO Auto-generated method stub
+
+		return value;
+	}
+
+}

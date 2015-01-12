@@ -1,0 +1,26 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.FitnessFunction;
+import org.jgap.IChromosome;
+
+public class ScriptFunctionEvaluation extends FitnessFunction {
+
+	@Override
+	protected double evaluate(IChromosome a_subject) {
+
+		while (!(Judge.waitPlayer)){
+			
+			System.out.println("aguardando servidor "+Judge.waitPlayer);
+		}
+			
+
+		SeleniumScript script = new SeleniumScript((int) Judge.getPorta());
+		
+		Judge.setGameFinish(true);
+		Judge.setWaitPlayer(false);
+		// TODO Auto-generated method stub
+
+		return 0;
+	}
+
+}

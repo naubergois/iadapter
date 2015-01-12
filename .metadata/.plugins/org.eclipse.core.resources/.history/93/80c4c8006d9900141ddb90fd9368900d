@@ -1,0 +1,65 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Configuration;
+import org.jgap.FitnessFunction;
+import org.jgap.Gene;
+import org.jgap.Genotype;
+import org.jgap.IChromosome;
+import org.jgap.InvalidConfigurationException;
+import org.jgap.impl.DefaultConfiguration;
+import org.jgap.impl.IntegerGene;
+
+public class TomCatPopulation extends Thread {
+
+	private Gene[] genes;
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		super.run();
+
+		try {
+			
+			
+
+			Configuration conf = new DefaultConfiguration();
+
+			FitnessFunction myFunc = new ServerFunctionEvaluation();
+
+			conf.setFitnessFunction(myFunc);
+
+			Gene[] sampleGenes = new Gene[2];
+			sampleGenes[0] = new IntegerGene(conf, 8080, 9090);
+			sampleGenes[1] = new IntegerGene(conf, 100, 9090);
+
+			TomCatChromossome chromossome = new TomCatChromossome(conf,
+					sampleGenes);
+
+			
+			
+			conf.setSampleChromosome(chromossome);
+
+			conf.setPopulationSize(3);
+
+			Genotype population = Genotype.randomInitialGenotype(conf);
+
+			population.evolve();
+			
+			
+			IChromosome bestSolutionSoFar = population.getFittestChromosome();
+			
+			
+			System.out.println("A melhor configuracao Ž "+bestSolutionSoFar.getGenes()[1]+" para o timeout ");
+			System.out.println("A melhor configuracao Ž "+bestSolutionSoFar.getFitnessValue());
+			
+			
+			
+			
+
+		} catch (InvalidConfigurationException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+}

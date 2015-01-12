@@ -1,0 +1,11 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Chromosome;
+
+public interface IDefender {
+	
+	public void running(Chromosome chromosome);
+	
+	public void stop(Chromosome chromosome);
+
+}

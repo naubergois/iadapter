@@ -1,0 +1,26 @@
+package br.nauber.iadapter.function;
+
+public class Judge {
+	
+	public static double waitPlayer;
+	
+	public static double getWaitPlayer() {
+		return waitPlayer;
+	}
+
+	public static void setWaitPlayer(double waitPlayer) {
+		Judge.waitPlayer = waitPlayer;
+	}
+
+	private static double responseTime;
+
+	public static double getResponseTime() {
+		return responseTime;
+	}
+
+	public static void setResponseTime(double responseTime) {
+		Judge.responseTime = responseTime;
+	}
+	
+
+}

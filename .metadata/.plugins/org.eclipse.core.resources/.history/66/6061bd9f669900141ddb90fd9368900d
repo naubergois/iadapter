@@ -1,0 +1,53 @@
+package br.nauber.iadapter.function;
+
+import java.io.File;
+
+import org.apache.catalina.startup.Tomcat;
+import org.jgap.FitnessFunction;
+import org.jgap.IChromosome;
+
+public class ServerFunctionEvaluation extends FitnessFunction {
+
+	@Override
+	protected double evaluate(IChromosome a_subject) {
+
+		long timeInit = System.currentTimeMillis();
+
+		TomCatServer tomcat = new TomCatServer();
+
+		int porta = (Integer) a_subject.getGenes()[0].getAllele();
+
+		System.out.println(porta);
+		tomcat.setPorta((Integer) a_subject.getGenes()[0].getAllele());
+		tomcat.setTimeout((Integer) a_subject.getGenes()[1].getAllele());
+		tomcat.start();
+		
+		Judge.setPorta(porta);
+		Judge.setWaitPlayer(true);
+		
+		
+		while (!Judge.gameFinish){
+			System.out.println("Aguarndo "+Judge.gameFinish);
+		}
+		
+		
+		Judge.setWaitPlayer(false);
+		
+
+		
+
+		long timeEnd = System.currentTimeMillis();
+		
+		
+		
+		
+		long value= timeEnd - timeInit;
+		
+		
+		tomcat.stop();
+		return value;
+		
+		
+	}
+
+}

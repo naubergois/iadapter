@@ -1,0 +1,54 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Configuration;
+import org.jgap.FitnessFunction;
+import org.jgap.Gene;
+import org.jgap.Genotype;
+import org.jgap.IChromosome;
+import org.jgap.impl.DefaultConfiguration;
+import org.jgap.impl.IntegerGene;
+
+public class ScriptPopulation extends Thread {
+
+	@Override
+	public void run() {
+
+		// TODO Auto-generated method stub
+		super.run();
+
+		try {
+			Configuration confScript = new DefaultConfiguration();
+			confScript.reset();
+
+			FitnessFunction myFunc = new ScriptFunctionEvaluation();
+
+			confScript.setFitnessFunction(myFunc);
+
+			Gene[] sampleGenes = new Gene[2];
+			sampleGenes[0] = new IntegerGene(confScript, 8080, 9090);
+			sampleGenes[1] = new IntegerGene(confScript, 100, 9090);
+
+			Chromossome chromossome = new Chromossome(
+					confScript, sampleGenes);
+
+			confScript.setSampleChromosome(chromossome);
+
+			confScript.setPopulationSize(3);
+
+			Genotype population = Genotype.randomInitialGenotype(confScript);
+
+			population.evolve();
+
+			IChromosome bestSolutionSoFar = population.getFittestChromosome();
+
+			System.out.println("A melhor script Ž "
+					+ bestSolutionSoFar.getGenes()[1] + " para o timeout ");
+			System.out.println("A melhor script Ž "
+					+ bestSolutionSoFar.getFitnessValue());
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}

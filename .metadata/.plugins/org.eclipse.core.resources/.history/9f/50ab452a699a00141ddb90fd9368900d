@@ -1,0 +1,43 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Chromosome;
+import org.jgap.Configuration;
+import org.jgap.Gene;
+import org.jgap.InvalidConfigurationException;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class SeleniumChromossome extends Chromosome implements IPlayer, IAtack {
+
+	public SeleniumChromossome(Configuration a_configuration,
+			Gene[] a_initialGenes) throws InvalidConfigurationException {
+		super(a_configuration, a_initialGenes);
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	@Override
+	public void running() {
+		WebDriver driver = new FirefoxDriver();
+
+		driver.get("http://localhost:" + Judge.getPorta() + "/login.jsp");
+		driver.findElement(By.name("nickname")).clear();
+		driver.findElement(By.name("nickname")).sendKeys("teste"+System.currentTimeMillis());
+		driver.findElement(By.name("Submit")).click();
+
+		driver.close();
+		
+	}
+
+	@Override
+	public void playerFuncion() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
