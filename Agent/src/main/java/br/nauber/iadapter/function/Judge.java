@@ -4,8 +4,6 @@ import org.jgap.IChromosome;
 
 public class Judge extends Thread {
 
-	
-
 	private static Game game;
 
 	public static boolean executando;
@@ -29,41 +27,42 @@ public class Judge extends Thread {
 						e.printStackTrace();
 					}
 				}
-			}
 
-			for (IRunner runner : Game.getRunnersAtack()) {
-
-				long timeInit = System.currentTimeMillis();
-
-				try {
-
-					runner.run(a_subject);
-
-				} catch (Exception e) {
-					System.out.println("Erro no atacante");
-					e.printStackTrace();
-				}
-
-				long timeEnd = System.currentTimeMillis();
-
-				long value = timeEnd - timeInit;
-
-				if (value > max) {
-					max = value;
-				}
-
-			}
-
-			for (IChromosome atack : game.getAtacantes()) {
 				for (IRunner runner : Game.getRunnersAtack()) {
-					runner.stop(atack);
-				}
-			}
-			for (IChromosome defensor : game.getDefensores()) {
-				for (IRunner runner : Game.getRunnersDefend()) {
-					runner.stop(defensor);
+
+					long timeInit = System.currentTimeMillis();
+
+					try {
+
+						runner.run(a_subject);
+
+					} catch (Exception e) {
+						System.out.println("Erro no atacante");
+						e.printStackTrace();
+					}
+
+					long timeEnd = System.currentTimeMillis();
+
+					long value = timeEnd - timeInit;
+
+					if (value > max) {
+						max = value;
+					}
+
 				}
 
+				for (IRunner runner : Game.getRunnersDefend()) {
+					try {
+						runner.stop((IChromosome) defensor);
+					} catch (Exception e) {
+						System.out.println("Erro no defensor");
+						e.printStackTrace();
+					}
+				}
+
+				for (IRunner runner : Game.getRunnersAtack()) {
+					runner.stop(a_subject);
+				}
 			}
 
 		}
@@ -139,23 +138,26 @@ public class Judge extends Thread {
 
 			Judge.executando = true;
 
-			for (IRunner runner : Game.getRunnersDefend()) {
-				try {
-					runner.run((IChromosome) a_subject);
-				} catch (Exception e) {
-					System.out.println("Erro no defensor");
-					e.printStackTrace();
-				}
-			}
+		
 
 			for (Object chromossome : Game.atackPopulation.getChromosomes()) {
+				for (IRunner runner : Game.getRunnersDefend()) {
+					try {
+						runner.run((IChromosome) a_subject);
+					} catch (Exception e) {
+						System.out.println("Erro no defensor");
+						e.printStackTrace();
+					}
+				}
+				
+				
 				for (IRunner runner : Game.getRunnersAtack()) {
 
 					long timeInit = System.currentTimeMillis();
 
 					try {
 
-						runner.run((IChromosome) chromossome);
+						runner.run( (IChromosome) chromossome);
 
 					} catch (Exception e) {
 						System.out.println("Erro no atacante");
@@ -169,25 +171,24 @@ public class Judge extends Thread {
 					if (value > max) {
 						max = value;
 					}
+					runner.stop((IChromosome) chromossome);
+					
 
 				}
-			}
-
-			for (IChromosome atack : game.getAtacantes()) {
-				for (IRunner runner : Game.getRunnersAtack()) {
-					runner.stop(atack);
-				}
-			}
-			for (IChromosome defensor : game.getDefensores()) {
 				for (IRunner runner : Game.getRunnersDefend()) {
-					runner.stop(defensor);
+					try {
+						runner.stop((IChromosome) a_subject);
+					} catch (Exception e) {
+						System.out.println("Erro no defensor");
+						e.printStackTrace();
+					}
 				}
-
 			}
+
+			
 
 		}
 
 		return max;
 	}
-
 }

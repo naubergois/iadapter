@@ -25,7 +25,7 @@ public class Game {
 
 	private static List<IRunner> runnersDefend = new ArrayList();
 
-	private static int numberMaxPlayers;
+	
 
 	public static List<IRunner> getRunnersAtack() {
 		return runnersAtack;
@@ -43,50 +43,27 @@ public class Game {
 		Game.runnersDefend = runnersDefend;
 	}
 
-	public List<IChromosome> getAtacantes() {
-		return atacantes;
-	}
-
-	public void setAtacantes(List<IChromosome> atacantes) {
-		this.atacantes = atacantes;
-	}
-
-	public static int getNumberMaxPlayers() {
-		return numberMaxPlayers;
-	}
-
-	public static void setNumberMaxPlayers(int numberMaxPlayers) {
-		Game.numberMaxPlayers = numberMaxPlayers;
-	}
-
-	public List<IChromosome> getDefensores() {
-		return defensores;
-	}
-
-	public void setDefensores(List<IChromosome> defensores) {
-		this.defensores = defensores;
-	}
-
-	private int numberOfPlayers;
-
-	private List<IChromosome> atacantes = new ArrayList<IChromosome>();
-	private List<IChromosome> defensores = new ArrayList<IChromosome>();;
-
-	public int getNumberOfPlayers() {
-		return numberOfPlayers;
-	}
-
-	public void setNumberOfPlayers(int numberOfPlayers) {
-		this.numberOfPlayers = numberOfPlayers;
-	}
-
-	public void init(Gene[] sampleGenesAtack, Gene[] sampleGenesDefend,
-			int populationSize) throws InvalidConfigurationException {
+	public static void init(List<TestGene> sampleGenesAtackList,
+			List<TestGene> sampleGenesDefendList, int populationSize)
+			throws InvalidConfigurationException {
 		Configuration conf = new DefaultConfiguration();
 
 		FitnessFunction myFunc = new DefendFunctionEvaluation();
 
 		conf.setFitnessFunction(myFunc);
+
+		Gene[] sampleGenesDefend = new Gene[sampleGenesDefendList.size()];
+
+		int counter = 0;
+
+		for (TestGene gene : sampleGenesDefendList) {
+			if (gene instanceof IntGene) {
+				sampleGenesDefend[counter] = new IntegerGene(conf,
+						((IntGene) gene).getMin(), ((IntGene) gene).getMax());
+				counter++;
+			}
+
+		}
 
 		Chromosome chromossome = new Chromosome(conf, sampleGenesDefend);
 
@@ -102,6 +79,19 @@ public class Game {
 		FitnessFunction myFuncScript = new AtackFunctionEvaluation();
 
 		confScript.setFitnessFunction(myFuncScript);
+
+		Gene[] sampleGenesAtack = new Gene[sampleGenesAtackList.size()];
+
+		counter = 0;
+
+		for (TestGene gene : sampleGenesAtackList) {
+			if (gene instanceof IntGene) {
+				sampleGenesAtack[counter] = new IntegerGene(conf,
+						((IntGene) gene).getMin(), ((IntGene) gene).getMax());
+				counter++;
+			}
+
+		}
 
 		Chromosome chromossomeScript = new Chromosome(confScript,
 				sampleGenesAtack);
@@ -123,32 +113,15 @@ public class Game {
 		Game.getRunnersAtack().add(new SeleniumRunner());
 		Game.getRunnersDefend().add(new TomCatRunner());
 
-		
+		List<TestGene> listDefend = new ArrayList();
+		listDefend.add(new IntGene(8080, 9090));
+		listDefend.add(new IntGene(1, 9090));
 
-		Gene[] sampleGenesDefend = new Gene[2];
-		sampleGenesDefend[0] = new IntegerGene(conf, 8080, 9090);
-		sampleGenesDefend[1] = new IntegerGene(conf, 100, 9090);
+		List<TestGene> listAtack = new ArrayList();
+		listAtack.add(new IntGene(8080, 9090));
+		listAtack.add(new IntGene(1, 9090));
 
-		
-		Gene[] sampleGenesAtack = new Gene[2];
-		sampleGenesAtack[0] = new IntegerGene(confScript, 8080, 9090);
-		sampleGenesScript[1] = new IntegerGene(confScript, 100, 9090);
-
-		Chromosome chromossomeScript = new Chromosome(confScript,
-				sampleGenesScript);
-
-		confScript.setSampleChromosome(chromossomeScript);
-
-		confScript.setPopulationSize(3);
-
-		Genotype populationScript = Genotype.randomInitialGenotype(confScript);
-
-		
-
-		Game.defendPopulation = population.getPopulation();
-		Game.atackPopulation = populationScript.getPopulation();
-
-		populationScript.evolve();
+		Game.init(listAtack, listDefend, 2);
 
 	}
 
