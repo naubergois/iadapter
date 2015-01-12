@@ -33,15 +33,13 @@ public class ScriptPopulation extends Thread {
 
 			confScript.setSampleChromosome(chromossome);
 
-			confScript.setPopulationSize(2);
+			confScript.setPopulationSize(21);
 
 			Genotype population = Genotype.randomInitialGenotype(confScript);
 			
 			System.out.println(population.getChromosomes().length);
 
 			population.evolve();
-			
-			
 
 			IChromosome bestSolutionSoFar = population.getFittestChromosome();
 
@@ -49,8 +47,6 @@ public class ScriptPopulation extends Thread {
 					+ bestSolutionSoFar.getGenes()[1] + " para o timeout ");
 			System.out.println("A melhor script Ž "
 					+ bestSolutionSoFar.getFitnessValue());
-			
-			System.out.print(population.getConfiguration().isAlwaysCalculateFitness());
 
 		} catch (Exception e) {
 			e.printStackTrace();

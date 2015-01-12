@@ -1,0 +1,168 @@
+package br.nauber.iadapter.function;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.jgap.Chromosome;
+import org.jgap.IChromosome;
+
+public class Judge extends Thread {
+
+	private static List runners = new ArrayList();
+	private static List servers = new ArrayList();
+
+	private static Game game;
+
+	public static boolean executando;
+
+	public static long requestGame(IChromosome a_subject, boolean atackPlayer) {
+
+		long max = 0;
+
+		
+		
+			
+		
+		
+		
+
+		synchronized (Judge.class) {
+
+			]
+					Judge.executando = true;
+
+					for (IChromosome defensor : game.getDefensores()) {
+
+						for (IRunner runner : Game.getRunnersDefend()) {
+							try{
+							runner.run(defensor);
+							}catch(Exception e){
+								System.out.println("Erro no defensor");
+								e.printStackTrace();
+							}
+						}
+					}
+
+					for (IChromosome atack : game.getAtacantes()) {
+
+						for (IRunner runner : Game.getRunnersAtack()) {
+
+							long timeInit = System.currentTimeMillis();
+							
+							try{
+
+							runner.run(atack);
+							
+							}catch(Exception e){
+								System.out.println("Erro no atacante");
+								e.printStackTrace();
+							}
+
+							long timeEnd = System.currentTimeMillis();
+
+							long value = timeEnd - timeInit;
+
+							atack.setFitnessValueDirectly(value);
+
+							if (value > max) {
+								max = value;
+							}
+
+						}
+
+					}
+					for (IChromosome defensor : game.getDefensores()) {
+						for (IChromosome atack : game.getAtacantes()) {
+							defensor.setFitnessValueDirectly(atack
+									.getFitnessValueDirectly());
+
+						}
+					}
+					
+					for (IChromosome atack : game.getAtacantes()) {
+						for (IRunner runner : Game.getRunnersAtack()) {
+							runner.stop(atack);
+						}
+					}
+					for (IChromosome defensor : game.getDefensores()) {
+						for (IRunner runner : Game.getRunnersDefend()) {
+							runner.stop(defensor);
+						}
+						
+					}
+
+					
+					
+					game.setAtacantes(new ArrayList());
+					game.setDefensores(new ArrayList());
+					game.setNumberOfPlayers(0);
+					Judge.executando = false;
+
+				}
+			
+		
+		return max;
+
+	}
+
+	private static long bilheteDefensor = -1;
+
+	private static long bilheteAtacante;
+
+	public static long getBilheteDefensor() {
+		return bilheteDefensor;
+	}
+
+	public static void setBilheteDefensor(long bilheteDefensor) {
+		Judge.bilheteDefensor = bilheteDefensor;
+	}
+
+	public static long getBilheteAtacante() {
+		return bilheteAtacante;
+	}
+
+	public static void setBilheteAtacante(long bilheteAtacante) {
+		Judge.bilheteAtacante = bilheteAtacante;
+	}
+
+	private static double porta;
+
+	public static double getPorta() {
+		return porta;
+	}
+
+	public static void setPorta(double porta) {
+		Judge.porta = porta;
+	}
+
+	public static boolean waitPlayer;
+
+	public static boolean gameFinish;
+
+	public static boolean isGameFinish() {
+		return gameFinish;
+	}
+
+	public static void setGameFinish(boolean gameFinish) {
+		Judge.gameFinish = gameFinish;
+	}
+
+	public static boolean isWaitPlayer() {
+		return waitPlayer;
+	}
+
+	public static void setWaitPlayer(boolean waitPlayer) {
+		Judge.waitPlayer = waitPlayer;
+	}
+
+	private static double responseTime;
+
+	public static double getResponseTime() {
+		return responseTime;
+	}
+
+	public static void setResponseTime(double responseTime) {
+		Judge.responseTime = responseTime;
+	}
+
+}

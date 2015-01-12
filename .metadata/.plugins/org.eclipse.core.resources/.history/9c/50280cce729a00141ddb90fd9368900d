@@ -15,8 +15,6 @@ import org.jgap.impl.DefaultConfiguration;
 import org.jgap.impl.IntegerGene;
 
 public class Game {
-	
-	private int initalPopulation;
 
 	public static Population defendPopulation;
 	public static Population atackPopulation;
@@ -128,11 +126,11 @@ public class Game {
 
 		System.out.println(populationScript.getChromosomes().length);
 		System.out.println(population.getChromosomes().length);
+		
+		Game.defendPopulation=population.getPopulation();
+		Game.atackPopulation=populationScript.getPopulation();
 
-		Game.defendPopulation = population.getPopulation();
-		Game.atackPopulation = populationScript.getPopulation();
-
-		populationScript.evolve();
+		population.evolve();
 
 	}
 

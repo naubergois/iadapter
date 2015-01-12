@@ -71,6 +71,8 @@ public class Judge extends Thread {
 
 			}
 
+			
+
 		}
 
 		return max;
@@ -135,11 +137,6 @@ public class Judge extends Thread {
 
 	public static void setResponseTime(double responseTime) {
 		Judge.responseTime = responseTime;
-	}
-
-	public static double requestGameDefend(IChromosome a_subject, boolean b) {
-		// TODO Auto-generated method stub
-		return 0;
 	}
 
 }

@@ -15,8 +15,7 @@ public class Judge extends Thread {
 
 	public static boolean executando;
 
-	public static long requestGameAtaque(IChromosome a_subject,
-			boolean atackPlayer) {
+	public static long requestGameAtaque(IChromosome a_subject, boolean atackPlayer) {
 
 		long max = 0;
 
@@ -36,28 +35,35 @@ public class Judge extends Thread {
 				}
 			}
 
-			for (IRunner runner : Game.getRunnersAtack()) {
+			
 
-				long timeInit = System.currentTimeMillis();
+				for (IRunner runner : Game.getRunnersAtack()) {
 
-				try {
+					long timeInit = System.currentTimeMillis();
 
-					runner.run(a_subject);
+					try {
 
-				} catch (Exception e) {
-					System.out.println("Erro no atacante");
-					e.printStackTrace();
+						runner.run(a_subject);
+
+					} catch (Exception e) {
+						System.out.println("Erro no atacante");
+						e.printStackTrace();
+					}
+
+					long timeEnd = System.currentTimeMillis();
+
+					long value = timeEnd - timeInit;
+
+					
+
+					if (value > max) {
+						max = value;
+					}
+
 				}
 
-				long timeEnd = System.currentTimeMillis();
-
-				long value = timeEnd - timeInit;
-
-				if (value > max) {
-					max = value;
-				}
-
-			}
+			
+		
 
 			for (IChromosome atack : game.getAtacantes()) {
 				for (IRunner runner : Game.getRunnersAtack()) {
@@ -70,6 +76,11 @@ public class Judge extends Thread {
 				}
 
 			}
+
+			game.setAtacantes(new ArrayList());
+			game.setDefensores(new ArrayList());
+			game.setNumberOfPlayers(0);
+			Judge.executando = false;
 
 		}
 
@@ -135,11 +146,6 @@ public class Judge extends Thread {
 
 	public static void setResponseTime(double responseTime) {
 		Judge.responseTime = responseTime;
-	}
-
-	public static double requestGameDefend(IChromosome a_subject, boolean b) {
-		// TODO Auto-generated method stub
-		return 0;
 	}
 
 }

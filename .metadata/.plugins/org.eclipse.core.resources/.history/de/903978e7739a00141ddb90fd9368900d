@@ -137,9 +137,4 @@ public class Judge extends Thread {
 		Judge.responseTime = responseTime;
 	}
 
-	public static double requestGameDefend(IChromosome a_subject, boolean b) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
 }

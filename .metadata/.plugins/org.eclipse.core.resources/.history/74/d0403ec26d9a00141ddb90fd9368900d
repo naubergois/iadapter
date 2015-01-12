@@ -35,7 +35,7 @@ public class TomCatPopulation extends Thread {
 
 			conf.setSampleChromosome(chromossome);
 
-			conf.setPopulationSize(2);
+			conf.setPopulationSize(3);
 
 			Genotype population = Genotype.randomInitialGenotype(conf);
 			

@@ -9,7 +9,7 @@ public class ScriptFunctionEvaluation extends FitnessFunction {
 	protected double evaluate(IChromosome a_subject) {
 
 		
-		return Judge.requestGameAtaque(a_subject,true);
+		return Judge.requestGame(a_subject,true);
 	}
 
 }

@@ -15,8 +15,6 @@ import org.jgap.impl.DefaultConfiguration;
 import org.jgap.impl.IntegerGene;
 
 public class Game {
-	
-	private int initalPopulation;
 
 	public static Population defendPopulation;
 	public static Population atackPopulation;
