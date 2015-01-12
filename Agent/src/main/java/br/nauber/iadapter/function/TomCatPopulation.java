@@ -23,7 +23,7 @@ public class TomCatPopulation extends Thread {
 
 			Configuration conf = new DefaultConfiguration();
 
-			FitnessFunction myFunc = new ServerFunctionEvaluation();
+			FitnessFunction myFunc = new DefendFunctionEvaluation();
 
 			conf.setFitnessFunction(myFunc);
 

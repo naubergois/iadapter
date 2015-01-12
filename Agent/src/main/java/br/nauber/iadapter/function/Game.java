@@ -15,7 +15,7 @@ import org.jgap.impl.DefaultConfiguration;
 import org.jgap.impl.IntegerGene;
 
 public class Game {
-	
+
 	private int initalPopulation;
 
 	public static Population defendPopulation;
@@ -80,41 +80,58 @@ public class Game {
 		this.numberOfPlayers = numberOfPlayers;
 	}
 
+	public void init(Gene[] sampleGenesAtack, Gene[] sampleGenesDefend,
+			int populationSize) throws InvalidConfigurationException {
+		Configuration conf = new DefaultConfiguration();
+
+		FitnessFunction myFunc = new DefendFunctionEvaluation();
+
+		conf.setFitnessFunction(myFunc);
+
+		Chromosome chromossome = new Chromosome(conf, sampleGenesDefend);
+
+		conf.setSampleChromosome(chromossome);
+
+		conf.setPopulationSize(populationSize);
+
+		Genotype population = Genotype.randomInitialGenotype(conf);
+
+		Configuration.reset();
+		Configuration confScript = new DefaultConfiguration();
+
+		FitnessFunction myFuncScript = new AtackFunctionEvaluation();
+
+		confScript.setFitnessFunction(myFuncScript);
+
+		Chromosome chromossomeScript = new Chromosome(confScript,
+				sampleGenesAtack);
+
+		confScript.setSampleChromosome(chromossomeScript);
+
+		confScript.setPopulationSize(populationSize);
+
+		Genotype populationScript = Genotype.randomInitialGenotype(confScript);
+
+		Game.defendPopulation = population.getPopulation();
+		Game.atackPopulation = populationScript.getPopulation();
+
+		populationScript.evolve();
+	}
+
 	public static void main(String[] args) throws InvalidConfigurationException {
 
 		Game.getRunnersAtack().add(new SeleniumRunner());
 		Game.getRunnersDefend().add(new TomCatRunner());
 
-		Configuration conf = new DefaultConfiguration();
+		
 
-		FitnessFunction myFunc = new ServerFunctionEvaluation();
+		Gene[] sampleGenesDefend = new Gene[2];
+		sampleGenesDefend[0] = new IntegerGene(conf, 8080, 9090);
+		sampleGenesDefend[1] = new IntegerGene(conf, 100, 9090);
 
-		conf.setFitnessFunction(myFunc);
-
-		Gene[] sampleGenes = new Gene[2];
-		sampleGenes[0] = new IntegerGene(conf, 8080, 9090);
-		sampleGenes[1] = new IntegerGene(conf, 100, 9090);
-
-		Chromosome chromossome = new Chromosome(conf, sampleGenes);
-
-		conf.setSampleChromosome(chromossome);
-
-		conf.setPopulationSize(2);
-
-		Genotype population = Genotype.randomInitialGenotype(conf);
-
-		System.out.println(population.getChromosomes().length);
-
-		Configuration.reset();
-		Configuration confScript = new DefaultConfiguration();
-		confScript.reset();
-
-		FitnessFunction myFuncScript = new ScriptFunctionEvaluation();
-
-		confScript.setFitnessFunction(myFuncScript);
-
-		Gene[] sampleGenesScript = new Gene[2];
-		sampleGenesScript[0] = new IntegerGene(confScript, 8080, 9090);
+		
+		Gene[] sampleGenesAtack = new Gene[2];
+		sampleGenesAtack[0] = new IntegerGene(confScript, 8080, 9090);
 		sampleGenesScript[1] = new IntegerGene(confScript, 100, 9090);
 
 		Chromosome chromossomeScript = new Chromosome(confScript,
@@ -126,8 +143,7 @@ public class Game {
 
 		Genotype populationScript = Genotype.randomInitialGenotype(confScript);
 
-		System.out.println(populationScript.getChromosomes().length);
-		System.out.println(population.getChromosomes().length);
+		
 
 		Game.defendPopulation = population.getPopulation();
 		Game.atackPopulation = populationScript.getPopulation();

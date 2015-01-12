@@ -6,12 +6,12 @@ import org.apache.catalina.startup.Tomcat;
 import org.jgap.FitnessFunction;
 import org.jgap.IChromosome;
 
-public class ServerFunctionEvaluation extends FitnessFunction {
+public class DefendFunctionEvaluation extends FitnessFunction {
 
 	@Override
 	protected double evaluate(IChromosome a_subject) {
 
-		return Judge.requestGameDefend(a_subject, false);
+		return Judge.requestGameDefend(a_subject);
 
 	}
 

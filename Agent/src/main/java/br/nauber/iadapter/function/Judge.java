@@ -1,15 +1,10 @@
 package br.nauber.iadapter.function;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import org.jgap.Chromosome;
 import org.jgap.IChromosome;
 
 public class Judge extends Thread {
 
-	private static List runners = new ArrayList();
-	private static List servers = new ArrayList();
+	
 
 	private static Game game;
 
@@ -137,9 +132,62 @@ public class Judge extends Thread {
 		Judge.responseTime = responseTime;
 	}
 
-	public static double requestGameDefend(IChromosome a_subject, boolean b) {
-		// TODO Auto-generated method stub
-		return 0;
+	public static double requestGameDefend(IChromosome a_subject) {
+		long max = 0;
+
+		synchronized (Judge.class) {
+
+			Judge.executando = true;
+
+			for (IRunner runner : Game.getRunnersDefend()) {
+				try {
+					runner.run((IChromosome) a_subject);
+				} catch (Exception e) {
+					System.out.println("Erro no defensor");
+					e.printStackTrace();
+				}
+			}
+
+			for (Object chromossome : Game.atackPopulation.getChromosomes()) {
+				for (IRunner runner : Game.getRunnersAtack()) {
+
+					long timeInit = System.currentTimeMillis();
+
+					try {
+
+						runner.run((IChromosome) chromossome);
+
+					} catch (Exception e) {
+						System.out.println("Erro no atacante");
+						e.printStackTrace();
+					}
+
+					long timeEnd = System.currentTimeMillis();
+
+					long value = timeEnd - timeInit;
+
+					if (value > max) {
+						max = value;
+					}
+
+				}
+			}
+
+			for (IChromosome atack : game.getAtacantes()) {
+				for (IRunner runner : Game.getRunnersAtack()) {
+					runner.stop(atack);
+				}
+			}
+			for (IChromosome defensor : game.getDefensores()) {
+				for (IRunner runner : Game.getRunnersDefend()) {
+					runner.stop(defensor);
+				}
+
+			}
+
+		}
+
+		return max;
 	}
 
 }

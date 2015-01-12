@@ -21,7 +21,7 @@ public class ScriptPopulation extends Thread {
 			Configuration confScript = new DefaultConfiguration();
 			confScript.reset();
 
-			FitnessFunction myFunc = new ScriptFunctionEvaluation();
+			FitnessFunction myFunc = new AtackFunctionEvaluation();
 
 			confScript.setFitnessFunction(myFunc);
 
