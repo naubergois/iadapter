@@ -3,14 +3,42 @@ package br.nauber.iadapter.function;
 import java.io.File;
 
 import org.apache.catalina.Context;
+import org.apache.catalina.LifecycleException;
 import org.apache.catalina.startup.Tomcat;
 
-public class TomCatServer extends Thread{
-	
+public class TomCatServer extends Thread {
+
 	private int timeout;
 	private int porta;
+
+	public void stopp() throws LifecycleException {
+
+		//tomcat.getServer().stop();
+		
+
+	}
 	
 	
+	public Tomcat getTomcat() {
+		return tomcat;
+	}
+
+
+	public void setTomcat(Tomcat tomcat) {
+		this.tomcat = tomcat;
+	}
+
+
+	public void executa(){
+		
+		tomcat.getServer().getCatalina().start();
+				
+		
+	}
+	
+
+	Tomcat tomcat = new Tomcat();
+	public Context ctx ;
 
 	@Override
 	public void run() {
@@ -20,7 +48,6 @@ public class TomCatServer extends Thread{
 			System.out.println("Working Directory = "
 					+ System.getProperty("user.dir"));
 			String webappDirLocation = "web/chat";
-			Tomcat tomcat = new Tomcat();
 
 			// The port that we should run on can be set into an environment
 			// variable
@@ -31,19 +58,21 @@ public class TomCatServer extends Thread{
 			}
 
 			tomcat.setPort(Integer.valueOf(webPort));
-			
-		
 
-			Context ctx = tomcat.addWebapp("/", new File(webappDirLocation).getAbsolutePath());
+			ctx = tomcat.addWebapp("/",
+					new File(webappDirLocation).getAbsolutePath());
 			ctx.setSessionTimeout(timeout);
-			
+
 			System.out.println("configuring app with basedir: "
 					+ new File("./" + webappDirLocation).getAbsolutePath());
 
 			tomcat.start();
 			tomcat.getServer().await();
 
+		
 		} catch (Exception e) {
+			
+			e.printStackTrace();
 
 		}
 	}
@@ -64,8 +93,8 @@ public class TomCatServer extends Thread{
 		this.timeout = timeout;
 	}
 
-	public TomCatServer(){
-		
+	public TomCatServer() {
+
 	}
 
 }

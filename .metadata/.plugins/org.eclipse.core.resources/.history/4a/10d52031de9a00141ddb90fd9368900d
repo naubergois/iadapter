@@ -1,0 +1,8 @@
+package br.nauber.iadapter.function;
+
+public class IScriptSelenium {
+	
+	
+	public void run();
+
+}

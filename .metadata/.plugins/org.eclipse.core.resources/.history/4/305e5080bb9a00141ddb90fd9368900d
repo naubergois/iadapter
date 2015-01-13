@@ -1,0 +1,34 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.IChromosome;
+import org.jgap.NaturalSelector;
+import org.jgap.Population;
+
+public class WorstSelector extends NaturalSelector{
+
+	@Override
+	public void select(int a_howManyToSelect, Population a_from_population,
+			Population a_to_population) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void empty() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public boolean returnsUniqueChromosomes() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	protected void add(IChromosome a_chromosomeToAdd) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

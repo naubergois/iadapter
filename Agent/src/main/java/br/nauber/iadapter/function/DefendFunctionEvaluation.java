@@ -11,7 +11,7 @@ public class DefendFunctionEvaluation extends FitnessFunction {
 	@Override
 	protected double evaluate(IChromosome a_subject) {
 
-		return Judge.requestGameDefend(a_subject);
+		return Double.MAX_VALUE-Judge.requestGameDefend(a_subject);
 
 	}
 

@@ -1,0 +1,11 @@
+package br.nauber.iadapter.function;
+
+import org.jgap.Configuration;
+import org.jgap.Gene;
+import org.jgap.IGeneConstraintChecker;
+import org.jgap.RandomGenerator;
+import org.jgap.UnsupportedRepresentationException;
+
+public class TestGene {
+	
+}

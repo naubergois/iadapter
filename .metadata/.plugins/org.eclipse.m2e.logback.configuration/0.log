@@ -1910,3 +1910,751 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognise
 2015-01-12 13:00:39,725 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
 2015-01-12 13:00:39,726 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
 2015-01-12 13:00:39,727 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:42:23,168 [Worker-180] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:42:23,177 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:42:23,178 [Worker-180] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:42:23,178 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:42:42,139 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:42:42,140 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:42:42,141 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:42:42,142 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:42:49,345 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:42:49,345 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:42:49,346 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:42:49,346 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:43:30,939 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:43:30,940 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:43:30,941 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:43:30,941 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:43:49,724 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:43:49,725 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:43:49,726 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:43:49,727 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:45:49,696 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:45:49,697 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:45:49,698 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:45:49,698 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:46:24,120 [Worker-192] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:46:24,120 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:46:24,121 [Worker-192] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:46:24,121 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:46:28,534 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:46:28,534 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:46:28,536 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:46:28,536 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:50:38,224 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:50:38,225 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:50:38,226 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:50:38,238 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:51:24,211 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:51:24,212 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:51:24,213 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:51:24,213 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:51:26,671 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:51:26,672 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:51:26,673 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:51:26,674 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:51:30,347 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:51:30,348 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:51:30,349 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:51:30,350 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:51:37,650 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:51:37,651 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:51:37,652 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:51:37,652 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:51:42,898 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:51:42,899 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:51:42,900 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:51:42,900 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:52:01,441 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:52:01,441 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:52:01,442 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:52:01,443 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:52:20,010 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:52:20,010 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:52:20,011 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:52:20,011 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:56:35,081 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:56:35,081 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:56:35,082 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:56:35,082 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:56:37,811 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:56:37,811 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:56:37,813 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:56:37,813 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:57:52,428 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:57:52,429 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:57:52,430 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:57:52,430 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:58:53,124 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:58:53,125 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:58:53,126 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:58:53,127 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 13:58:55,057 [Worker-192] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:58:55,058 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 13:58:55,059 [Worker-192] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:58:55,059 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:00:38,510 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:00:38,510 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:00:38,512 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:00:38,512 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:00:54,656 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:00:54,657 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:00:54,658 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:00:54,658 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:02:29,650 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:02:29,651 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:02:29,652 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:02:29,653 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:02:53,543 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:02:53,544 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:02:53,545 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:02:53,545 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:03:47,869 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:03:47,869 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:03:47,870 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:03:47,870 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:03:53,226 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:03:53,227 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:03:53,228 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:03:53,229 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:04:01,817 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:04:01,817 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:04:01,818 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:04:01,818 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:04:15,000 [Worker-192] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:04:15,000 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:04:15,002 [Worker-192] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:04:15,002 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:08:24,199 [Worker-185] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:08:24,199 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:08:24,200 [Worker-185] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:08:24,200 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:08:26,184 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:08:26,185 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:08:26,186 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:08:26,186 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:10:51,380 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:10:51,380 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:10:51,382 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:10:51,382 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:11:55,870 [Worker-180] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:11:55,871 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:11:55,871 [Worker-180] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:11:55,872 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:12:01,019 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:12:01,020 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:12:01,021 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:12:01,022 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:12:50,664 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:12:50,664 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:12:50,665 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:12:50,665 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:13:56,989 [Worker-185] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:13:56,990 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:13:56,991 [Worker-185] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:13:56,991 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:14:44,158 [Worker-180] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:14:44,159 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:14:44,160 [Worker-180] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:14:44,160 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:14:50,967 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:14:50,968 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:14:50,969 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:14:50,970 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 14:15:00,820 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:15:00,820 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 14:15:00,821 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:15:00,821 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 19:47:58,330 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 19:47:58,331 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 19:47:58,332 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 19:47:58,333 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 19:55:01,299 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 19:55:01,299 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 19:55:01,300 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 19:55:01,300 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 19:55:04,155 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 19:55:04,155 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 19:55:04,156 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 19:55:04,156 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 19:56:21,701 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 19:56:21,702 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 19:56:21,702 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 19:56:21,703 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:00:07,975 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:00:07,977 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:00:07,978 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:00:07,978 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:03:11,079 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:03:11,079 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:03:11,080 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:03:11,080 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:11:50,200 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:11:50,200 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:11:50,201 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:11:50,202 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:16:06,084 [Worker-226] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:16:06,136 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:16:06,137 [Worker-226] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:16:06,137 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:22:43,942 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:22:43,942 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:22:43,943 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:22:43,943 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:23:10,323 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:23:10,324 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:23:10,324 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:23:10,325 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:23:26,104 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:23:26,105 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:23:26,106 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:23:26,106 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:33:39,274 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:33:39,274 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:33:39,276 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:33:39,276 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:34:17,258 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:34:17,258 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:34:17,259 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:34:17,260 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:35:21,286 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:35:21,287 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:35:21,287 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:35:21,288 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:40:00,682 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:40:00,682 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:40:00,683 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:40:00,683 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:42:52,590 [Worker-231] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:42:52,591 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:42:52,592 [Worker-231] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:42:52,592 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:42:54,625 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:42:54,625 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:42:54,626 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:42:54,626 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:45:57,802 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:45:57,802 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:45:57,803 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:45:57,804 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:46:06,278 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:46:06,278 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:46:06,279 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:46:06,279 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:46:40,942 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:46:40,943 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:46:40,943 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:46:40,944 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 20:51:03,753 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:51:03,754 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 20:51:03,754 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 20:51:03,755 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:02:40,662 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:02:40,664 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:02:40,665 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:02:40,665 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:02:49,225 [Worker-233] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:02:49,226 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:02:49,227 [Worker-233] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:02:49,227 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:27:59,280 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:27:59,281 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:27:59,281 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:27:59,282 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:28:51,040 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:28:51,041 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:28:51,041 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:28:51,041 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:29:10,686 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:29:10,686 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:29:10,687 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:29:10,687 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:31:23,466 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:31:23,466 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:31:23,467 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:31:23,467 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:31:48,812 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:31:48,813 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:31:48,814 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:31:48,815 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:33:24,225 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:33:24,225 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:33:24,226 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:33:24,226 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:33:39,067 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:33:39,067 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:33:39,068 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:33:39,068 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:33:51,498 [Worker-234] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:33:51,499 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:33:51,500 [Worker-234] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:33:51,500 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:34:16,108 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:34:16,109 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:34:16,110 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:34:16,110 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:35:16,566 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:35:16,567 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:35:16,568 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:35:16,568 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:36:03,310 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:36:03,310 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:36:03,311 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:36:03,312 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:36:35,786 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:36:35,786 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:36:35,787 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:36:35,787 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:38:15,033 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:38:15,034 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:38:15,034 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:38:15,035 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:40:14,802 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:40:14,802 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:40:14,803 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:40:14,803 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:40:31,579 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:40:31,580 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:40:31,581 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:40:31,581 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:42:55,145 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:42:55,145 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:42:55,146 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:42:55,147 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:45:42,705 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:45:42,705 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:45:42,706 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:45:42,707 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:46:29,509 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:46:29,510 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:46:29,510 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:46:29,511 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:48:20,659 [Worker-234] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:48:20,659 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:48:20,660 [Worker-234] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:48:20,660 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:50:26,074 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:50:26,074 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:50:26,075 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:50:26,075 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:52:20,858 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:52:20,858 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:52:20,859 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:52:20,859 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:53:14,372 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:53:14,372 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:53:14,374 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:53:14,374 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 21:53:35,600 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:53:35,601 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 21:53:35,602 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 21:53:35,602 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 22:09:56,259 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:09:56,311 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 22:09:56,312 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:09:56,313 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 22:11:47,229 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:11:47,229 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 22:11:47,230 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:11:47,230 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 22:13:12,309 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:13:12,309 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 22:13:12,310 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:13:12,310 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 22:13:32,375 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:13:32,375 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 22:13:32,376 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:13:32,376 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 22:36:32,180 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:36:32,180 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 22:36:32,181 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:36:32,181 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 22:37:11,577 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:37:11,578 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 22:37:11,579 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:37:11,579 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 22:55:24,446 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:55:24,446 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 22:55:24,447 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:55:24,447 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 22:58:10,825 [Worker-248] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:58:10,825 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 22:58:10,826 [Worker-248] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:58:10,826 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 22:58:42,105 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:58:42,105 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 22:58:42,106 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 22:58:42,106 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:48:12,232 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:48:12,269 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:48:12,271 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:48:12,271 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:48:16,128 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:48:16,128 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:48:16,129 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:48:16,129 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:48:35,961 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:48:35,961 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:48:35,962 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:48:35,962 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:49:49,636 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:49:50,548 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:49:50,549 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:49:50,549 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:50:14,820 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:50:14,821 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:50:14,822 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:50:14,822 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:51:18,189 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:51:18,190 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:51:18,191 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:51:18,191 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:51:29,607 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:51:29,607 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:51:29,608 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:51:29,608 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:53:59,586 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:53:59,626 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:53:59,629 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:53:59,630 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:54:00,976 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:54:00,976 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:54:00,977 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:54:00,977 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:54:31,996 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:54:31,997 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:54:31,997 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:54:31,998 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:54:34,401 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:54:34,401 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:54:34,402 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:54:34,402 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:56:03,342 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:56:03,342 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:56:03,343 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:56:03,343 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:56:43,519 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:56:43,519 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:56:43,520 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:56:43,520 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:56:45,654 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:56:45,654 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:56:45,655 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:56:45,655 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-12 23:58:19,467 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:58:19,507 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-12 23:58:19,508 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 23:58:19,508 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:12:32,419 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:12:32,457 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:12:32,458 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:12:32,459 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:12:44,447 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:12:44,447 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:12:44,448 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:12:44,448 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:23:18,490 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:23:18,531 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:23:18,532 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:23:18,533 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:30:56,461 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:30:56,534 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:30:56,536 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:30:56,536 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:32:27,707 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:32:27,707 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:32:27,708 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:32:27,709 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:33:08,011 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:33:08,012 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:33:08,012 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:33:08,013 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:35:34,558 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:35:34,585 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:35:34,586 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:35:34,586 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:35:44,676 [Worker-261] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:35:44,676 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:35:44,677 [Worker-261] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:35:44,678 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:35:50,693 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:35:50,693 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:35:50,694 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:35:50,695 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:37:31,035 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:37:31,036 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:37:31,037 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:37:31,038 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:38:31,814 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:38:31,814 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:38:31,816 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:38:31,816 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:39:09,265 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:39:09,317 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:39:09,318 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:39:09,319 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:41:00,148 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:41:00,149 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:41:00,149 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:41:00,150 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:42:35,013 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:42:35,014 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:42:35,015 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:42:35,015 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:42:36,966 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:42:36,967 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:42:36,967 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:42:36,968 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:47:12,297 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:47:12,297 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:47:12,299 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:47:12,299 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:48:37,655 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:48:37,655 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:48:37,656 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:48:37,656 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:49:16,627 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:49:16,628 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:49:16,630 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:49:16,630 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:49:41,222 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:49:41,223 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:49:41,224 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:49:41,225 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:50:01,623 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:50:01,623 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:50:01,624 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:50:01,624 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:51:34,134 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:51:34,134 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:51:34,135 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:51:34,135 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:52:23,041 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:52:23,041 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:52:23,042 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:52:23,042 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 00:56:03,265 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:56:03,266 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 00:56:03,266 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 00:56:03,267 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:02:29,644 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:02:29,644 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:02:29,646 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:02:29,646 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:04:33,122 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:04:33,122 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:04:33,123 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:04:33,124 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:11:15,462 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:11:15,463 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:11:15,464 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:11:15,464 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:12:32,191 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:12:32,192 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:12:32,193 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:12:32,193 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:22:25,352 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:22:25,352 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:22:25,353 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:22:25,353 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:23:07,182 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:23:07,182 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:23:07,183 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:23:07,184 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:23:46,896 [Worker-261] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:23:46,897 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:23:46,898 [Worker-261] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:23:46,898 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:29:17,022 [Worker-272] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:29:17,023 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:29:17,024 [Worker-272] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:29:17,024 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:32:44,582 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:32:44,583 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:32:44,584 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:32:44,584 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:33:25,420 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:33:25,420 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:33:25,421 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:33:25,421 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:38:43,625 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:38:43,625 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:38:43,627 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:38:43,627 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:39:11,252 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:39:11,253 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:39:11,254 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:39:11,255 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:39:20,499 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:39:20,500 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:39:20,500 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:39:20,501 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:39:42,764 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:39:42,764 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:39:42,765 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:39:42,765 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:42:29,766 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:42:29,766 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:42:29,767 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:42:29,768 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:42:39,010 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:42:39,010 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:42:39,011 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:42:39,012 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:44:05,448 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:44:05,448 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:44:05,449 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:44:05,449 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:44:33,291 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:44:33,292 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:44:33,293 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:44:33,293 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:44:59,437 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:44:59,438 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:44:59,438 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:44:59,439 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:45:01,619 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:45:01,619 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:45:01,620 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:45:01,620 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:45:25,810 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:45:25,810 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:45:25,811 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:45:25,812 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:46:20,500 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:46:20,500 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:46:20,501 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:46:20,502 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:47:02,240 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:47:02,241 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:47:02,242 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:47:02,242 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:47:04,493 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:47:04,494 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:47:04,494 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:47:04,494 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:47:16,605 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:47:16,606 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:47:16,607 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:47:16,607 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:47:23,428 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:47:23,429 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:47:23,429 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:47:23,430 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:47:59,227 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:47:59,228 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:47:59,229 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:47:59,229 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:48:49,714 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:48:49,714 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:48:49,715 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:48:49,716 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:48:52,513 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:48:52,513 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:48:52,515 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:48:52,515 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:49:09,645 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:49:09,646 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:49:09,647 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:49:09,647 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:50:34,085 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:50:34,085 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:50:34,086 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:50:34,087 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:50:56,554 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:50:56,554 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:50:56,555 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:50:56,556 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:52:29,507 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:52:29,508 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:52:29,509 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:52:29,509 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:59:14,808 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:59:14,808 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:59:14,810 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:59:14,810 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 01:59:16,863 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:59:16,863 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 01:59:16,864 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 01:59:16,865 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:01:18,302 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:01:18,302 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:01:18,303 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:01:18,303 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:10:24,948 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:10:24,949 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:10:24,950 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:10:24,950 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:15:23,505 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:15:23,506 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:15:23,507 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:15:23,507 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:16:44,783 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:16:44,784 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:16:44,785 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:16:44,785 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:19:11,494 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:19:11,494 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:19:11,495 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:19:11,495 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:19:26,641 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:19:26,642 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:19:26,642 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:19:26,643 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:20:56,526 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:20:56,527 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:20:56,528 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:20:56,528 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:22:30,177 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:22:30,178 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:22:30,178 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:22:30,179 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:24:45,984 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:24:45,984 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:24:45,985 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:24:45,985 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:25:11,914 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:25:11,914 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:25:11,915 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:25:11,915 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:25:29,039 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:25:29,040 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:25:29,041 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:25:29,041 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:28:21,650 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:28:21,651 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:28:21,651 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:28:21,652 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:28:28,880 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:28:28,881 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:28:28,882 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:28:28,882 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:29:07,740 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:29:07,741 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:29:07,742 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:29:07,742 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:29:16,928 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:29:16,929 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:29:16,930 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:29:16,930 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:29:55,265 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:29:55,265 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:29:55,266 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:29:55,266 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:29:57,564 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:29:57,564 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:29:57,565 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:29:57,565 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:38:04,396 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:38:04,397 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:38:04,398 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:38:04,398 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:39:57,803 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:39:57,803 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:39:57,804 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:39:57,805 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:49:48,240 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:49:48,242 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:49:48,243 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:49:48,243 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources

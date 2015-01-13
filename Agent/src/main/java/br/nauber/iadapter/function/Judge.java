@@ -1,8 +1,75 @@
 package br.nauber.iadapter.function;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import org.jgap.IChromosome;
+import org.jgap.InvalidConfigurationException;
 
 public class Judge extends Thread {
+
+	public static void verifyWinner(int numberOfGames, int counter)
+			throws InvalidConfigurationException {
+		if (counter <= numberOfGames) {
+			if (Game.getAtackPoint() > Game.getDefenderPoint()) {
+				System.out.println("===================");
+				System.out.println("Ataque ganhou");
+				System.out.println("===================");
+				System.out.println("===================");
+				System.out.println(Game.atackPoint);
+				System.out.println("===================");
+				System.out.println(Game.defenderPoint);
+				System.out.println("===================");
+
+				Game.atackPoint = 0;
+				Game.defenderPoint = 0;
+
+				Game.defendGenotype = Game.getBestFit(Game.defendGenotype,
+						Game.defenderConfiguration);
+
+				Game.showCromossomes(Game.defendGenotype, "Apos selecao",
+						"Defender");
+
+				Game.crossOverOperation(Game.defendGenotype,
+						Game.defenderConfiguration);
+
+				Game.showCromossomes(Game.defendGenotype, "Apos cross over",
+						"Defender");
+
+				Game.defendGenotype.evolve();
+
+				verifyWinner(numberOfGames, ++counter);
+
+			} else {
+
+				System.out.println("===================");
+				System.out.println("Ataque ganhou");
+				System.out.println("===================");
+				System.out.println(Game.atackPoint);
+				System.out.println("===================");
+				System.out.println(Game.defenderPoint);
+				System.out.println("===================");
+
+				Game.atackPoint = 0;
+				Game.defenderPoint = 0;
+
+				Game.atackGenotype = Game.getBestFit(Game.atackGenotype,
+						Game.atackConfiguration);
+
+				Game.showCromossomes(Game.atackGenotype, "Apos selecao",
+						"Atack");
+
+				Game.crossOverOperation(Game.atackGenotype,
+						Game.atackConfiguration);
+
+				Game.showCromossomes(Game.getAtackGenotype(),
+						"Apos cross over", "Atack");
+
+				verifyWinner(numberOfGames, ++counter);
+
+			}
+		}
+	}
 
 	private static Game game;
 
@@ -17,10 +84,13 @@ public class Judge extends Thread {
 
 			Judge.executando = true;
 
-			for (Object defensor : Game.defendPopulation.getChromosomes()) {
+			for (Object defensor : Game.defendGenotype.getChromosomes()) {
 
 				for (IRunner runner : Game.getRunnersDefend()) {
 					try {
+						System.out.println("===================");
+						System.out.println("Start runner defend ");
+						System.out.println("===================");
 						runner.run((IChromosome) defensor);
 					} catch (Exception e) {
 						System.out.println("Erro no defensor");
@@ -30,32 +100,48 @@ public class Judge extends Thread {
 
 				for (IRunner runner : Game.getRunnersAtack()) {
 
-					long timeInit = System.currentTimeMillis();
-
-					try {
+					if (runner instanceof SeleniumRunner) {
 
 						runner.run(a_subject);
-
-					} catch (Exception e) {
-						System.out.println("Erro no atacante");
-						e.printStackTrace();
 					}
 
-					long timeEnd = System.currentTimeMillis();
+					else {
 
-					long value = timeEnd - timeInit;
+						long timeInit = System.currentTimeMillis();
 
-					if (value > max) {
-						max = value;
+						try {
+							System.out.println("===================");
+							System.out.println("Start runner atack ");
+							System.out.println("===================");
+
+							runner.run(a_subject);
+
+						} catch (Exception e) {
+							System.out.println("Erro no atacante");
+							e.printStackTrace();
+						}
+
+						long timeEnd = System.currentTimeMillis();
+
+						long value = timeEnd - timeInit;
+
+						if (value > max) {
+							max = value;
+						}
 					}
 
 				}
 
 				for (IRunner runner : Game.getRunnersDefend()) {
 					try {
+						System.out.println("===================");
+						System.out.println("Stop runner defend ");
+						System.out.println("===================");
 						runner.stop((IChromosome) defensor);
 					} catch (Exception e) {
+						System.out.println("===================");
 						System.out.println("Erro no defensor");
+						System.out.println("===================");
 						e.printStackTrace();
 					}
 				}
@@ -65,6 +151,20 @@ public class Judge extends Thread {
 				}
 			}
 
+		}
+
+		if (max > Game.getGoalValue()) {
+			Game.setAtackPoint(Game.getAtackPoint() + 1);
+			System.out.println("===================");
+			System.out.println("Ponto pro ataque time:" + max + " goal:"
+					+ Game.getGoalValue());
+			System.out.println("===================");
+		} else {
+			Game.setDefenderPoint(Game.getDefenderPoint() + 1);
+			System.out.println("===================");
+			System.out.println("Ponto pra defesa time:" + max + " goal:"
+					+ Game.getGoalValue());
+			System.out.println("===================");
 		}
 
 		return max;
@@ -138,41 +238,48 @@ public class Judge extends Thread {
 
 			Judge.executando = true;
 
-		
-
-			for (Object chromossome : Game.atackPopulation.getChromosomes()) {
+			for (Object chromossome : Game.atackGenotype.getChromosomes()) {
 				for (IRunner runner : Game.getRunnersDefend()) {
 					try {
+						System.out.println("===================");
+						System.out.println("Start runner defend ");
+						System.out.println("===================");
 						runner.run((IChromosome) a_subject);
 					} catch (Exception e) {
 						System.out.println("Erro no defensor");
 						e.printStackTrace();
 					}
 				}
-				
-				
+
 				for (IRunner runner : Game.getRunnersAtack()) {
+					if (runner instanceof SeleniumRunner) {
 
-					long timeInit = System.currentTimeMillis();
+						runner.run(a_subject);
+					} else {
 
-					try {
+						long timeInit = System.currentTimeMillis();
 
-						runner.run( (IChromosome) chromossome);
+						try {
+							System.out.println("===================");
+							System.out.println("Start runner atack ");
+							System.out.println("===================");
 
-					} catch (Exception e) {
-						System.out.println("Erro no atacante");
-						e.printStackTrace();
+							runner.run((IChromosome) chromossome);
+
+						} catch (Exception e) {
+							System.out.println("Erro no atacante");
+							e.printStackTrace();
+						}
+
+						long timeEnd = System.currentTimeMillis();
+
+						long value = timeEnd - timeInit;
+
+						if (value > max) {
+							max = value;
+						}
+						runner.stop((IChromosome) chromossome);
 					}
-
-					long timeEnd = System.currentTimeMillis();
-
-					long value = timeEnd - timeInit;
-
-					if (value > max) {
-						max = value;
-					}
-					runner.stop((IChromosome) chromossome);
-					
 
 				}
 				for (IRunner runner : Game.getRunnersDefend()) {
@@ -183,9 +290,20 @@ public class Judge extends Thread {
 						e.printStackTrace();
 					}
 				}
+				if (max > Game.getGoalValue()) {
+					Game.setAtackPoint(Game.getAtackPoint() + 1);
+					System.out.println("===================");
+					System.out.println("Ponto pro ataque time:" + max
+							+ " goal:" + Game.getGoalValue());
+					System.out.println("===================");
+				} else {
+					Game.setDefenderPoint(Game.getDefenderPoint() + 1);
+					System.out.println("===================");
+					System.out.println("Ponto pra defesa time:" + max
+							+ " goal:" + Game.getGoalValue());
+					System.out.println("===================");
+				}
 			}
-
-			
 
 		}
 

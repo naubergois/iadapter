@@ -1,0 +1,52 @@
+package br.nauber.iadapter.function;
+
+import org.apache.catalina.LifecycleException;
+import org.apache.catalina.LifecycleState;
+import org.jgap.IChromosome;
+
+public class TomCatRunner implements IRunner {
+
+	TomCatServer tomcat = new TomCatServer();
+
+	@Override
+	public double run(IChromosome chromosome) {
+
+		// tomcat = new TomCatServer();
+
+		int porta = (Integer) chromosome.getGenes()[0].getAllele();
+
+		System.out.println(porta);
+		tomcat.setPorta(8080);
+		tomcat.setTimeout((Integer) chromosome.getGenes()[1].getAllele());
+
+		try {
+			if (tomcat.getTomcat().getServer().getState()==LifecycleState.STARTED) {
+				tomcat.executa();
+			} else {
+				
+				tomcat.start();
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+		Judge.setPorta(8080);
+
+		return 0;
+	}
+
+	@Override
+	public double stop(IChromosome chromosome) {
+		try {
+
+			tomcat.stopp();
+
+		} catch (LifecycleException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

@@ -1,0 +1,26 @@
+package br.nauber.iadapter.function;
+
+public class ScriptGene extends TestGene {
+	
+	
+	private int userNumber;
+	
+	private String scriptName;
+
+	public int getUserNumber() {
+		return userNumber;
+	}
+
+	public void setUserNumber(int userNumber) {
+		this.userNumber = userNumber;
+	}
+
+	public String getScriptName() {
+		return scriptName;
+	}
+
+	public void setScriptName(String scriptName) {
+		this.scriptName = scriptName;
+	}
+
+}

@@ -1,0 +1,245 @@
+package br.nauber.iadapter.function;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.jgap.Chromosome;
+import org.jgap.Configuration;
+import org.jgap.FitnessFunction;
+import org.jgap.Gene;
+import org.jgap.Genotype;
+import org.jgap.IChromosome;
+import org.jgap.InvalidConfigurationException;
+import org.jgap.Population;
+import org.jgap.impl.BestChromosomesSelector;
+
+import org.jgap.impl.CrossoverOperator;
+import org.jgap.impl.DefaultConfiguration;
+import org.jgap.impl.IntegerGene;
+
+public class Game {
+	
+	public double defenderPoint;
+	
+	public double atackPoint;
+	
+	public double goalValue;
+
+	public double getGoalValue() {
+		return goalValue;
+	}
+
+	public void setGoalValue(double goalValue) {
+		this.goalValue = goalValue;
+	}
+
+	private int initalPopulation;
+
+	public static Genotype defendGenotype;
+	public static Genotype atackGenotype;
+
+	public static Genotype getDefendGenotype() {
+		return defendGenotype;
+	}
+
+	public static void setDefendGenotype(Genotype defendGenotype) {
+		Game.defendGenotype = defendGenotype;
+	}
+
+	public static Genotype getAtackGenotype() {
+		return atackGenotype;
+	}
+
+	public static void setAtackGenotype(Genotype atackGenotype) {
+		Game.atackGenotype = atackGenotype;
+	}
+
+	private static List<IRunner> runnersAtack = new ArrayList();
+
+	private static List<IRunner> runnersDefend = new ArrayList();
+
+	public static List<IRunner> getRunnersAtack() {
+		return runnersAtack;
+	}
+
+	public static void setRunnersAtack(List<IRunner> runnersAtack) {
+		Game.runnersAtack = runnersAtack;
+	}
+
+	public static List<IRunner> getRunnersDefend() {
+		return runnersDefend;
+	}
+
+	public void setRunnersDefend(List<IRunner> runnersDefend) {
+		Game.runnersDefend = runnersDefend;
+	}
+
+	public static void init(List<TestGene> sampleGenesAtackList,
+			List<TestGene> sampleGenesDefendList, int populationSize)
+			throws InvalidConfigurationException {
+		Configuration conf = new DefaultConfiguration();
+
+		FitnessFunction myFunc = new DefendFunctionEvaluation();
+
+		conf.setFitnessFunction(myFunc);
+
+		Gene[] sampleGenesDefend = new Gene[sampleGenesDefendList.size()];
+
+		int counter = 0;
+
+		for (TestGene gene : sampleGenesDefendList) {
+			if (gene instanceof IntGene) {
+				sampleGenesDefend[counter] = new IntegerGene(conf,
+						((IntGene) gene).getMin(), ((IntGene) gene).getMax());
+				counter++;
+			}
+
+		}
+
+		Chromosome chromossome = new Chromosome(conf, sampleGenesDefend);
+
+		conf.setSampleChromosome(chromossome);
+
+		conf.setPopulationSize(populationSize);
+
+		
+
+		Genotype population = Genotype.randomInitialGenotype(conf);
+
+		Configuration.reset();
+		Configuration confScript = new DefaultConfiguration();
+
+		FitnessFunction myFuncScript = new AtackFunctionEvaluation();
+
+		confScript.setFitnessFunction(myFuncScript);
+
+		Gene[] sampleGenesAtack = new Gene[sampleGenesAtackList.size()];
+
+		counter = 0;
+
+		for (TestGene gene : sampleGenesAtackList) {
+			if (gene instanceof IntGene) {
+				sampleGenesAtack[counter] = new IntegerGene(conf,
+						((IntGene) gene).getMin(), ((IntGene) gene).getMax());
+				counter++;
+			}
+
+		}
+
+		Chromosome chromossomeScript = new Chromosome(confScript,
+				sampleGenesAtack);
+
+		confScript.setSampleChromosome(chromossomeScript);
+
+		confScript.setPopulationSize(populationSize);
+
+		confScript.addNaturalSelector(new BestChromosomesSelector(confScript),
+				true);
+
+		confScript.addGeneticOperator(new CrossoverOperator(confScript));
+
+		Genotype populationScript = Genotype.randomInitialGenotype(confScript);
+
+		Game.defendGenotype = population;
+		Game.atackGenotype = populationScript;
+
+		populationScript.evolve();
+
+		Game.showCromossomes(populationScript, "Depois do fit");
+
+		System.out.println(populationScript.getPopulation().getChromosomes()
+				.size());
+
+		populationScript = Game.getBestFit(populationScript, confScript);
+
+		System.out.println(populationScript.getPopulation().getChromosomes()
+				.size());
+
+		Game.showCromossomes(populationScript, "Apos selecao");
+
+		Game.crossOverOperation(populationScript, confScript);
+
+		Game.showCromossomes(populationScript, "Apos cross over");
+
+	}
+
+	public int getInitalPopulation() {
+		return initalPopulation;
+	}
+
+	public void setInitalPopulation(int initalPopulation) {
+		this.initalPopulation = initalPopulation;
+	}
+
+	public static Genotype getDefendPopulation() {
+		return defendGenotype;
+	}
+
+	public static void setDefendPopulation(Genotype defendPopulation) {
+		Game.defendGenotype = defendPopulation;
+	}
+
+	public static Genotype getAtackPopulation() {
+		return atackGenotype;
+	}
+
+	public static void setAtackPopulation(Genotype atackPopulation) {
+		Game.atackGenotype = atackPopulation;
+	}
+
+	public static void showCromossomes(Genotype population, String comment) {
+		for (Object object : population.getPopulation().getChromosomes()) {
+			IChromosome chromossome = (IChromosome) object;
+			System.out.println("===================");
+			System.out.println(comment);
+			System.out.println("===================");
+			System.out.println("Fit value :" + chromossome.getFitnessValue());
+			System.out.println("Fit age :" + chromossome.getAge());
+			System.out.println("Fit genes :");
+			System.out.println("===================");
+
+			Gene[] lista = chromossome.getGenes();
+			for (Gene gene : lista) {
+				System.out.println(" Allele :" + gene.getAllele() + " ");
+
+			}
+			System.out.println("===================");
+			System.out.println("===================");
+		}
+	}
+
+	public static Genotype getBestFit(Genotype population,
+			Configuration configuration) throws InvalidConfigurationException {
+
+		Population population3 = new Population(configuration);
+		configuration.getNaturalSelector(true, 0).select(2,
+				population.getPopulation(), population3);
+		Genotype population2 = new Genotype(configuration, population3);
+		return population2;
+	}
+
+	public static void crossOverOperation(Genotype population,
+			Configuration configuration) throws InvalidConfigurationException {
+
+		population.applyGeneticOperators();
+
+	}
+
+	public static void main(String[] args) throws InvalidConfigurationException {
+
+		Game.getRunnersAtack().add(new SeleniumRunner());
+		Game.getRunnersDefend().add(new TomCatRunner());
+
+		List<TestGene> listDefend = new ArrayList();
+		listDefend.add(new IntGene(8080, 9090));
+		listDefend.add(new IntGene(1, 9090));
+
+		List<TestGene> listAtack = new ArrayList();
+		listAtack.add(new IntGene(8080, 9090));
+		listAtack.add(new IntGene(1, 9090));
+
+		Game.init(listAtack, listDefend, 8);
+
+	}
+
+}

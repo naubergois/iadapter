@@ -1,0 +1,16 @@
+package br.nauber.iadapter.function;
+
+public class ScriptSeleniumThread extends Thread {
+	
+	private IScriptSelenium script;
+	
+	private int time;
+	
+	
+	public ScriptSeleniumThread(IScriptSelenium script){
+		this.script=script;
+	}
+	
+	
+
+}
