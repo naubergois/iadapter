@@ -20,59 +20,64 @@ public class SeleniumRunner implements IRunner {
 		SeleniumRunner.listaScripts = listaScripts;
 	}
 
-	
-
 	@Override
 	public double run(IChromosome chromosome) {
 
-		List<ScriptSeleniumThread> threads = new ArrayList<ScriptSeleniumThread>();
-		long value = 0;
-		long max = 0;
+		synchronized (SeleniumRunner.class) {
 
-		for (int i = 0; i <= chromosome.size() - 2; i = i + 2) {
-			int script = (Integer) chromosome.getGenes()[i].getAllele();
-			int user = (Integer) chromosome.getGenes()[i + 1].getAllele();
+			List<ScriptSeleniumThread> threads = new ArrayList<ScriptSeleniumThread>();
+			long value = 0;
+			long max = 0;
 
-			IScriptSelenium scriptSelenium = SeleniumRunner.getListaScripts()
-					.get(script);
+			for (int i = 0; i <= chromosome.size() - 2; i = i + 2) {
+				int script = (Integer) chromosome.getGenes()[i].getAllele();
+				int user = (Integer) chromosome.getGenes()[i + 1].getAllele();
 
-			try {
+				System.out.println("===================");
+				System.out.println("Script " + script);
+				System.out.println("===================");
 
-				for (int j = 0; j < user; j++) {
-					
-					System.out.println("===================");
-					System.out.println("User "+user);
-					System.out.println("===================");
+				IScriptSelenium scriptSelenium = SeleniumRunner
+						.getListaScripts().get(script);
 
+				try {
 
-					ScriptSeleniumThread thread = new ScriptSeleniumThread(
-							scriptSelenium);
+					for (int j = 0; j < user; j++) {
 
-					thread.start();
-					threads.add(thread);
+						System.out.println("===================");
+						System.out.println("User " + user);
+						System.out.println("===================");
 
-				}
-				int counter = 0;
-				while (counter <= threads.size() - 1) {
-					counter = 0;
-					for (ScriptSeleniumThread thread : threads) {
+						ScriptSeleniumThread thread = new ScriptSeleniumThread(
+								scriptSelenium);
 
-						if (!(thread.isAlive())) {
-							value = thread.getTime();
-							if (value > max) {
-								max = value;
-							}
-							counter++;
-						}
+						thread.start();
+						threads.add(thread);
 
 					}
+					int counter = 0;
+					while (counter <= threads.size() - 1) {
+						counter = 0;
+						for (ScriptSeleniumThread thread : threads) {
+
+							if (!(thread.isAlive())) {
+								value = thread.getTime();
+								if (value > max) {
+									max = value;
+								}
+								counter++;
+							}
+
+						}
+					}
+				} catch (Exception e) {
+					max = -1000;
+					System.out.println("Erro no atacante");
+					e.printStackTrace();
 				}
-			} catch (Exception e) {
-				System.out.println("Erro no atacante");
-				e.printStackTrace();
 			}
+			return max;
 		}
-		return max;
 	}
 
 	@Override

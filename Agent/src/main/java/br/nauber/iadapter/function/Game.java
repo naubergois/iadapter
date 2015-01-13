@@ -177,7 +177,7 @@ public class Game {
 
 		confScript.setFitnessFunction(myFuncScript);
 
-		Gene[] sampleGenesAtack= new Gene[sampleGenesAtackList.size()];
+		Gene[] sampleGenesAtack = new Gene[sampleGenesAtackList.size()];
 
 		counter = 0;
 
@@ -260,25 +260,53 @@ public class Game {
 			Gene[] lista = chromossome.getGenes();
 			for (Gene gene : lista) {
 				System.out.println(" Allele :" + gene.getAllele() + " ");
+				Util util = new Util();
+				if (owner.equals("atack")) {
+					util.writeScriptResults(chromossome.getAge() + ","
+							+ chromossome.getFitnessValue() + ","
+							+ gene.getAllele());
+				} else {
+					util.writeServerResults(chromossome.getAge() + ","
+							+ chromossome.getFitnessValue() + ","
+							+ gene.getAllele());
+				}
 
 			}
 			System.out.println("===================");
 			System.out.println("===================");
+
 		}
 	}
 
 	public static Genotype getBestFit(Genotype population,
 			Configuration configuration) throws InvalidConfigurationException {
 
-		int numberOfelements = population.getPopulation().size();
+		synchronized (Game.class) {
 
-		int newNumber = (int) Math.round(numberOfelements / 2.0);
+			int numberOfelements = population.getPopulation().size();
 
-		Population population3 = new Population(configuration);
-		configuration.getNaturalSelector(true, 0).select(newNumber,
-				population.getPopulation(), population3);
-		Genotype population2 = new Genotype(configuration, population3);
-		return population2;
+			int newNumber = (int) Math.round(numberOfelements / 2.0);
+
+			if (newNumber > population.getPopulation().size()) {
+				newNumber = population.getPopulation().size();
+			}
+
+			System.out.println("===================");
+			System.out.println(" New Number " + newNumber);
+			System.out.println("===================");
+
+			System.out.println("===================");
+			System.out.println(" Natural Selector "
+					+ configuration.getNaturalSelectorsSize(true));
+			System.out.println("===================");
+
+			Population population3 = new Population(configuration);
+			configuration.getNaturalSelector(true, 0).select(newNumber,
+					population.getPopulation(), population3);
+			Genotype population2 = new Genotype(configuration, population3);
+
+			return population2;
+		}
 	}
 
 	public static void crossOverOperation(Genotype population,
@@ -298,7 +326,7 @@ public class Game {
 		listDefend.add(new IntGene(1, 9090));
 
 		List<TestGene> listAtack = new ArrayList();
-		listAtack.add(new ScriptGene(0, 30));
+		listAtack.add(new ScriptGene(0, 1));
 
 		SeleniumRunner.getListaScripts().add(new ScriptLogin());
 
