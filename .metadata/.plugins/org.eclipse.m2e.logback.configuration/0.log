@@ -2658,3 +2658,642 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognise
 2015-01-13 02:49:48,242 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
 2015-01-13 02:49:48,243 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
 2015-01-13 02:49:48,243 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:53:59,489 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:53:59,490 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:53:59,490 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:53:59,491 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 02:55:47,044 [Worker-278] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:55:47,044 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 02:55:47,045 [Worker-278] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 02:55:47,046 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:01:11,054 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:01:11,055 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:01:11,056 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:01:11,056 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:37:26,182 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:37:26,182 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:37:26,183 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:37:26,184 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:37:48,669 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:37:48,670 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:37:48,670 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:37:48,671 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:38:00,017 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:38:00,018 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:38:00,019 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:38:00,019 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:38:02,271 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:38:02,272 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:38:02,273 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:38:02,273 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:38:37,989 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:38:37,989 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:38:37,990 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:38:37,990 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:40:19,671 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:40:19,671 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:40:19,672 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:40:19,672 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:42:06,544 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:42:06,544 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:42:06,545 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:42:06,545 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:42:20,094 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:42:20,094 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:42:20,095 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:42:20,096 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:44:46,993 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:44:46,993 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:44:46,994 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:44:46,995 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:45:03,253 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:45:03,253 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:45:03,254 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:45:03,254 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:49:53,926 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:49:53,927 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:49:53,928 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:49:53,928 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:52:18,685 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:52:18,686 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:52:18,687 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:52:18,688 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:52:36,737 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:52:36,737 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:52:36,739 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:52:36,739 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:53:56,454 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:53:56,455 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:53:56,456 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:53:56,456 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 03:58:39,761 [Worker-282] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:58:39,762 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 03:58:39,763 [Worker-282] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 03:58:39,763 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 04:02:46,518 [Worker-284] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:02:46,519 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 04:02:46,519 [Worker-284] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:02:46,520 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 04:03:45,747 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:03:45,748 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 04:03:45,749 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:03:45,749 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 04:03:47,952 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:03:47,952 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 04:03:47,953 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:03:47,954 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 04:08:21,203 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:08:21,204 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 04:08:21,205 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:08:21,205 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 04:08:25,760 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:08:25,760 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 04:08:25,761 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:08:25,762 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 04:14:43,371 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:14:43,371 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 04:14:43,372 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:14:43,376 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 04:14:47,359 [Worker-284] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:14:47,359 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 04:14:47,360 [Worker-284] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:14:47,360 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 04:15:37,771 [Worker-278] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:15:37,772 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 04:15:37,773 [Worker-278] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:15:37,773 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 04:15:40,096 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:15:40,096 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 04:15:40,097 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:15:40,097 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 04:17:16,152 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:17:16,152 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 04:17:16,153 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:17:16,153 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 04:17:18,330 [Worker-282] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:17:18,330 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 04:17:18,331 [Worker-282] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:17:18,332 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 04:27:22,648 [Worker-282] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:27:22,648 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 04:27:22,649 [Worker-282] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 04:27:22,650 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 09:58:59,504 [Worker-293] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 09:58:59,505 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 09:58:59,506 [Worker-293] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 09:58:59,506 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 16:23:55,145 [Worker-312] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 16:23:55,147 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 16:23:55,148 [Worker-312] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 16:23:55,149 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 21:00:09,117 [Worker-336] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 21:00:09,118 [Worker-336] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 21:00:09,119 [Worker-336] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 21:00:09,120 [Worker-336] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 21:00:10,251 [Worker-334] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 21:00:10,251 [Worker-334] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 21:00:10,253 [Worker-334] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 21:00:10,253 [Worker-334] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 21:01:05,848 [Worker-332] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 21:01:11,257 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/jmeter/ApacheJMeter_core/2.12/ApacheJMeter_core-2.12.pom
+2015-01-13 21:01:12,220 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter_core/2.12/ApacheJMeter_core-2.12.pom
+2015-01-13 21:01:12,524 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter_core/2.12/ApacheJMeter_core-2.12.pom
+2015-01-13 21:01:13,199 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/jmeter/ApacheJMeter_parent/2.12/ApacheJMeter_parent-2.12.pom
+2015-01-13 21:01:13,358 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter_parent/2.12/ApacheJMeter_parent-2.12.pom
+2015-01-13 21:01:13,978 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter_parent/2.12/ApacheJMeter_parent-2.12.pom
+2015-01-13 21:01:14,624 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/jmeter/jorphan/2.12/jorphan-2.12.pom
+2015-01-13 21:01:14,789 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jmeter/jorphan/2.12/jorphan-2.12.pom
+2015-01-13 21:01:15,093 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jmeter/jorphan/2.12/jorphan-2.12.pom
+2015-01-13 21:01:16,204 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2015-01-13 21:01:16,510 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2015-01-13 21:01:17,270 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2015-01-13 21:01:17,973 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2015-01-13 21:01:18,395 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2015-01-13 21:01:19,760 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2015-01-13 21:01:20,487 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/dnsjava/dnsjava/2.1.6/dnsjava-2.1.6.pom
+2015-01-13 21:01:20,715 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/dnsjava/dnsjava/2.1.6/dnsjava-2.1.6.pom
+2015-01-13 21:01:21,021 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/dnsjava/dnsjava/2.1.6/dnsjava-2.1.6.pom
+2015-01-13 21:01:22,503 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/d-haven-managed-pool/d-haven-managed-pool/1.0/d-haven-managed-pool-1.0.pom
+2015-01-13 21:01:22,507 [Worker-332] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 21:01:24,261 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tika/tika-core/1.6/tika-core-1.6.pom
+2015-01-13 21:01:24,475 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tika/tika-core/1.6/tika-core-1.6.pom
+2015-01-13 21:01:24,778 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tika/tika-core/1.6/tika-core-1.6.pom
+2015-01-13 21:01:25,457 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tika/tika-parent/1.6/tika-parent-1.6.pom
+2015-01-13 21:01:25,702 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tika/tika-parent/1.6/tika-parent-1.6.pom
+2015-01-13 21:01:26,081 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tika/tika-parent/1.6/tika-parent-1.6.pom
+2015-01-13 21:01:26,787 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tika/tika-parsers/1.6/tika-parsers-1.6.pom
+2015-01-13 21:01:26,948 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tika/tika-parsers/1.6/tika-parsers-1.6.pom
+2015-01-13 21:01:27,254 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tika/tika-parsers/1.6/tika-parsers-1.6.pom
+2015-01-13 21:01:28,032 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/gagravarr/vorbis-java-tika/0.6/vorbis-java-tika-0.6.pom
+2015-01-13 21:01:28,190 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/gagravarr/vorbis-java-tika/0.6/vorbis-java-tika-0.6.pom
+2015-01-13 21:01:28,499 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/gagravarr/vorbis-java-tika/0.6/vorbis-java-tika-0.6.pom
+2015-01-13 21:01:29,176 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/gagravarr/vorbis-java-parent/0.6/vorbis-java-parent-0.6.pom
+2015-01-13 21:01:29,336 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/gagravarr/vorbis-java-parent/0.6/vorbis-java-parent-0.6.pom
+2015-01-13 21:01:29,652 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/gagravarr/vorbis-java-parent/0.6/vorbis-java-parent-0.6.pom
+2015-01-13 21:01:30,410 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/edu/ucar/netcdf/4.2.20/netcdf-4.2.20.pom
+2015-01-13 21:01:31,084 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/edu/ucar/netcdf/4.2.20/netcdf-4.2.20.pom
+2015-01-13 21:01:31,511 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/edu/ucar/netcdf/4.2.20/netcdf-4.2.20.pom
+2015-01-13 21:01:32,229 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/edu/ucar/netcdf-parent/4.2.20/netcdf-parent-4.2.20.pom
+2015-01-13 21:01:32,431 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/edu/ucar/netcdf-parent/4.2.20/netcdf-parent-4.2.20.pom
+2015-01-13 21:01:32,850 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/edu/ucar/netcdf-parent/4.2.20/netcdf-parent-4.2.20.pom
+2015-01-13 21:01:33,508 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/edu/ucar/unidataCommon/4.2.20/unidataCommon-4.2.20.pom
+2015-01-13 21:01:33,738 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/edu/ucar/unidataCommon/4.2.20/unidataCommon-4.2.20.pom
+2015-01-13 21:01:34,550 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/edu/ucar/unidataCommon/4.2.20/unidataCommon-4.2.20.pom
+2015-01-13 21:01:35,188 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.pom
+2015-01-13 21:01:35,350 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.pom
+2015-01-13 21:01:35,704 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.pom
+2015-01-13 21:01:36,411 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/net/sourceforge/jmatio/jmatio/1.0/jmatio-1.0.pom
+2015-01-13 21:01:36,623 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sourceforge/jmatio/jmatio/1.0/jmatio-1.0.pom
+2015-01-13 21:01:37,029 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sourceforge/jmatio/jmatio/1.0/jmatio-1.0.pom
+2015-01-13 21:01:37,860 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.pom
+2015-01-13 21:01:38,117 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.pom
+2015-01-13 21:01:38,846 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.pom
+2015-01-13 21:01:39,576 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/tukaani/xz/1.5/xz-1.5.pom
+2015-01-13 21:01:39,812 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.pom
+2015-01-13 21:01:40,249 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.pom
+2015-01-13 21:01:40,913 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/pdfbox/pdfbox/1.8.6/pdfbox-1.8.6.pom
+2015-01-13 21:01:41,071 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/1.8.6/pdfbox-1.8.6.pom
+2015-01-13 21:01:41,436 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/1.8.6/pdfbox-1.8.6.pom
+2015-01-13 21:01:42,265 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/pdfbox/pdfbox-parent/1.8.6/pdfbox-parent-1.8.6.pom
+2015-01-13 21:01:42,480 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox-parent/1.8.6/pdfbox-parent-1.8.6.pom
+2015-01-13 21:01:42,786 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox-parent/1.8.6/pdfbox-parent-1.8.6.pom
+2015-01-13 21:01:43,436 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/pdfbox/fontbox/1.8.6/fontbox-1.8.6.pom
+2015-01-13 21:01:43,597 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/1.8.6/fontbox-1.8.6.pom
+2015-01-13 21:01:43,898 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/1.8.6/fontbox-1.8.6.pom
+2015-01-13 21:01:44,612 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/pdfbox/jempbox/1.8.6/jempbox-1.8.6.pom
+2015-01-13 21:01:44,771 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/pdfbox/jempbox/1.8.6/jempbox-1.8.6.pom
+2015-01-13 21:01:45,074 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/pdfbox/jempbox/1.8.6/jempbox-1.8.6.pom
+2015-01-13 21:01:45,798 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/poi/poi/3.11-beta2/poi-3.11-beta2.pom
+2015-01-13 21:01:45,993 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/poi/poi/3.11-beta2/poi-3.11-beta2.pom
+2015-01-13 21:01:46,352 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/poi/poi/3.11-beta2/poi-3.11-beta2.pom
+2015-01-13 21:01:47,207 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/poi/poi-scratchpad/3.11-beta2/poi-scratchpad-3.11-beta2.pom
+2015-01-13 21:01:47,413 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/3.11-beta2/poi-scratchpad-3.11-beta2.pom
+2015-01-13 21:01:47,886 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/3.11-beta2/poi-scratchpad-3.11-beta2.pom
+2015-01-13 21:01:48,630 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/poi/poi-ooxml/3.11-beta2/poi-ooxml-3.11-beta2.pom
+2015-01-13 21:01:48,835 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.11-beta2/poi-ooxml-3.11-beta2.pom
+2015-01-13 21:01:49,220 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.11-beta2/poi-ooxml-3.11-beta2.pom
+2015-01-13 21:01:49,895 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/poi/poi-ooxml-schemas/3.11-beta2/poi-ooxml-schemas-3.11-beta2.pom
+2015-01-13 21:01:50,082 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.11-beta2/poi-ooxml-schemas-3.11-beta2.pom
+2015-01-13 21:01:50,410 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.11-beta2/poi-ooxml-schemas-3.11-beta2.pom
+2015-01-13 21:01:51,060 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.pom
+2015-01-13 21:01:51,219 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.pom
+2015-01-13 21:01:51,384 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.pom
+2015-01-13 21:01:52,259 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/com/googlecode/mp4parser/isoparser/1.0.2/isoparser-1.0.2.pom
+2015-01-13 21:01:53,174 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/googlecode/mp4parser/isoparser/1.0.2/isoparser-1.0.2.pom
+2015-01-13 21:01:53,464 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/googlecode/mp4parser/isoparser/1.0.2/isoparser-1.0.2.pom
+2015-01-13 21:01:54,142 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/aspectj/aspectjrt/1.8.0/aspectjrt-1.8.0.pom
+2015-01-13 21:01:54,290 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.8.0/aspectjrt-1.8.0.pom
+2015-01-13 21:01:54,577 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.8.0/aspectjrt-1.8.0.pom
+2015-01-13 21:01:55,464 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/rome/rome/1.0/rome-1.0.pom
+2015-01-13 21:01:55,647 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/rome/rome/1.0/rome-1.0.pom
+2015-01-13 21:01:55,943 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/rome/rome/1.0/rome-1.0.pom
+2015-01-13 21:01:56,661 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/gagravarr/vorbis-java-core/0.6/vorbis-java-core-0.6.pom
+2015-01-13 21:01:56,811 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/gagravarr/vorbis-java-core/0.6/vorbis-java-core-0.6.pom
+2015-01-13 21:01:57,110 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/gagravarr/vorbis-java-core/0.6/vorbis-java-core-0.6.pom
+2015-01-13 21:01:57,909 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/com/pff/java-libpst/0.8.1/java-libpst-0.8.1.pom
+2015-01-13 21:01:58,240 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/pff/java-libpst/0.8.1/java-libpst-0.8.1.pom
+2015-01-13 21:01:58,576 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/pff/java-libpst/0.8.1/java-libpst-0.8.1.pom
+2015-01-13 21:01:59,376 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.pom
+2015-01-13 21:01:59,525 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.pom
+2015-01-13 21:01:59,820 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.pom
+2015-01-13 21:02:00,468 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/com/thoughtworks/xstream/xstream-parent/1.4.7/xstream-parent-1.4.7.pom
+2015-01-13 21:02:00,616 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.7/xstream-parent-1.4.7.pom
+2015-01-13 21:02:01,086 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.7/xstream-parent-1.4.7.pom
+2015-01-13 21:02:01,936 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/xalan/xalan/2.7.2/xalan-2.7.2.pom
+2015-01-13 21:02:02,088 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xalan/xalan/2.7.2/xalan-2.7.2.pom
+2015-01-13 21:02:02,412 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xalan/xalan/2.7.2/xalan-2.7.2.pom
+2015-01-13 21:02:03,170 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/xalan/serializer/2.7.2/serializer-2.7.2.pom
+2015-01-13 21:02:03,317 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xalan/serializer/2.7.2/serializer-2.7.2.pom
+2015-01-13 21:02:03,597 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xalan/serializer/2.7.2/serializer-2.7.2.pom
+2015-01-13 21:02:04,743 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/jsoup/jsoup/1.8.1/jsoup-1.8.1.pom
+2015-01-13 21:02:04,902 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.8.1/jsoup-1.8.1.pom
+2015-01-13 21:02:05,212 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.8.1/jsoup-1.8.1.pom
+2015-01-13 21:02:05,936 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/jodd/jodd-core/3.6.1/jodd-core-3.6.1.pom
+2015-01-13 21:02:06,102 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jodd/jodd-core/3.6.1/jodd-core-3.6.1.pom
+2015-01-13 21:02:06,396 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jodd/jodd-core/3.6.1/jodd-core-3.6.1.pom
+2015-01-13 21:02:07,202 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/jodd/jodd-lagarto/3.6.1/jodd-lagarto-3.6.1.pom
+2015-01-13 21:02:07,367 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jodd/jodd-lagarto/3.6.1/jodd-lagarto-3.6.1.pom
+2015-01-13 21:02:07,751 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jodd/jodd-lagarto/3.6.1/jodd-lagarto-3.6.1.pom
+2015-01-13 21:02:08,425 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/jodd/jodd-log/3.6.1/jodd-log-3.6.1.pom
+2015-01-13 21:02:08,589 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jodd/jodd-log/3.6.1/jodd-log-3.6.1.pom
+2015-01-13 21:02:08,980 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jodd/jodd-log/3.6.1/jodd-log-3.6.1.pom
+2015-01-13 21:02:09,862 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/com/fifesoft/rsyntaxtextarea/2.5.3/rsyntaxtextarea-2.5.3.pom
+2015-01-13 21:02:10,022 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fifesoft/rsyntaxtextarea/2.5.3/rsyntaxtextarea-2.5.3.pom
+2015-01-13 21:02:10,410 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fifesoft/rsyntaxtextarea/2.5.3/rsyntaxtextarea-2.5.3.pom
+2015-01-13 21:02:13,660 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/jmeter/ApacheJMeter_core/2.12/ApacheJMeter_core-2.12.jar
+2015-01-13 21:02:14,368 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/jmeter/jorphan/2.12/jorphan-2.12.jar
+2015-01-13 21:02:15,014 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2015-01-13 21:02:15,732 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/dnsjava/dnsjava/2.1.6/dnsjava-2.1.6.jar
+2015-01-13 21:02:16,445 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/d-haven-managed-pool/d-haven-managed-pool/1.0/d-haven-managed-pool-1.0.jar
+2015-01-13 21:02:17,143 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tika/tika-core/1.6/tika-core-1.6.jar
+2015-01-13 21:02:17,916 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/tika/tika-parsers/1.6/tika-parsers-1.6.jar
+2015-01-13 21:02:18,597 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/gagravarr/vorbis-java-tika/0.6/vorbis-java-tika-0.6.jar
+2015-01-13 21:02:19,287 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/edu/ucar/netcdf/4.2.20/netcdf-4.2.20.jar
+2015-01-13 21:02:19,981 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/edu/ucar/unidataCommon/4.2.20/unidataCommon-4.2.20.jar
+2015-01-13 21:02:20,607 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar
+2015-01-13 21:02:21,281 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/net/sourceforge/jmatio/jmatio/1.0/jmatio-1.0.jar
+2015-01-13 21:02:21,911 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+2015-01-13 21:02:22,601 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/tukaani/xz/1.5/xz-1.5.jar
+2015-01-13 21:02:23,330 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/pdfbox/pdfbox/1.8.6/pdfbox-1.8.6.jar
+2015-01-13 21:02:23,956 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/pdfbox/fontbox/1.8.6/fontbox-1.8.6.jar
+2015-01-13 21:02:24,644 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/pdfbox/jempbox/1.8.6/jempbox-1.8.6.jar
+2015-01-13 21:02:25,328 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/poi/poi/3.11-beta2/poi-3.11-beta2.jar
+2015-01-13 21:02:25,974 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/poi/poi-scratchpad/3.11-beta2/poi-scratchpad-3.11-beta2.jar
+2015-01-13 21:02:26,660 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/poi/poi-ooxml/3.11-beta2/poi-ooxml-3.11-beta2.jar
+2015-01-13 21:02:27,373 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/poi/poi-ooxml-schemas/3.11-beta2/poi-ooxml-schemas-3.11-beta2.jar
+2015-01-13 21:02:28,003 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar
+2015-01-13 21:02:28,639 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/com/googlecode/mp4parser/isoparser/1.0.2/isoparser-1.0.2.jar
+2015-01-13 21:02:29,375 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/aspectj/aspectjrt/1.8.0/aspectjrt-1.8.0.jar
+2015-01-13 21:02:30,085 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/rome/rome/1.0/rome-1.0.jar
+2015-01-13 21:02:30,745 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/gagravarr/vorbis-java-core/0.6/vorbis-java-core-0.6.jar
+2015-01-13 21:02:31,417 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/com/pff/java-libpst/0.8.1/java-libpst-0.8.1.jar
+2015-01-13 21:02:32,037 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/xalan/xalan/2.7.2/xalan-2.7.2.jar
+2015-01-13 21:02:32,704 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/xalan/serializer/2.7.2/serializer-2.7.2.jar
+2015-01-13 21:02:33,355 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/jsoup/jsoup/1.8.1/jsoup-1.8.1.jar
+2015-01-13 21:02:34,029 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/jodd/jodd-core/3.6.1/jodd-core-3.6.1.jar
+2015-01-13 21:02:34,666 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/jodd/jodd-lagarto/3.6.1/jodd-lagarto-3.6.1.jar
+2015-01-13 21:02:35,379 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/jodd/jodd-log/3.6.1/jodd-log-3.6.1.jar
+2015-01-13 21:02:36,045 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/com/fifesoft/rsyntaxtextarea/2.5.3/rsyntaxtextarea-2.5.3.jar
+2015-01-13 21:02:36,404 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter_core/2.12/ApacheJMeter_core-2.12.jar
+2015-01-13 21:02:37,904 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter_core/2.12/ApacheJMeter_core-2.12.jar
+2015-01-13 21:02:38,008 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jmeter/jorphan/2.12/jorphan-2.12.jar
+2015-01-13 21:02:39,172 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jmeter/jorphan/2.12/jorphan-2.12.jar
+2015-01-13 21:02:39,762 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2015-01-13 21:02:40,396 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2015-01-13 21:02:40,500 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/dnsjava/dnsjava/2.1.6/dnsjava-2.1.6.jar
+2015-01-13 21:02:41,139 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/dnsjava/dnsjava/2.1.6/dnsjava-2.1.6.jar
+2015-01-13 21:02:41,241 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tika/tika-core/1.6/tika-core-1.6.jar
+2015-01-13 21:02:41,823 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tika/tika-core/1.6/tika-core-1.6.jar
+2015-01-13 21:02:41,941 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tika/tika-parsers/1.6/tika-parsers-1.6.jar
+2015-01-13 21:02:42,607 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tika/tika-parsers/1.6/tika-parsers-1.6.jar
+2015-01-13 21:02:42,711 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/gagravarr/vorbis-java-tika/0.6/vorbis-java-tika-0.6.jar
+2015-01-13 21:02:42,925 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/gagravarr/vorbis-java-tika/0.6/vorbis-java-tika-0.6.jar
+2015-01-13 21:02:43,049 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/edu/ucar/netcdf/4.2.20/netcdf-4.2.20.jar
+2015-01-13 21:02:46,791 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/edu/ucar/netcdf/4.2.20/netcdf-4.2.20.jar
+2015-01-13 21:02:46,896 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/edu/ucar/unidataCommon/4.2.20/unidataCommon-4.2.20.jar
+2015-01-13 21:02:47,315 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/edu/ucar/unidataCommon/4.2.20/unidataCommon-4.2.20.jar
+2015-01-13 21:02:47,416 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar
+2015-01-13 21:02:47,655 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar
+2015-01-13 21:02:47,759 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sourceforge/jmatio/jmatio/1.0/jmatio-1.0.jar
+2015-01-13 21:02:47,988 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sourceforge/jmatio/jmatio/1.0/jmatio-1.0.jar
+2015-01-13 21:02:48,093 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+2015-01-13 21:02:48,642 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+2015-01-13 21:02:48,749 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.jar
+2015-01-13 21:02:49,518 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.jar
+2015-01-13 21:02:49,644 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/1.8.6/pdfbox-1.8.6.jar
+2015-01-13 21:02:52,976 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/1.8.6/pdfbox-1.8.6.jar
+2015-01-13 21:02:53,078 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/1.8.6/fontbox-1.8.6.jar
+2015-01-13 21:02:53,630 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/1.8.6/fontbox-1.8.6.jar
+2015-01-13 21:02:53,736 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/pdfbox/jempbox/1.8.6/jempbox-1.8.6.jar
+2015-01-13 21:02:54,407 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/pdfbox/jempbox/1.8.6/jempbox-1.8.6.jar
+2015-01-13 21:02:54,518 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/poi/poi/3.11-beta2/poi-3.11-beta2.jar
+2015-01-13 21:02:56,616 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/poi/poi/3.11-beta2/poi-3.11-beta2.jar
+2015-01-13 21:02:56,721 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/3.11-beta2/poi-scratchpad-3.11-beta2.jar
+2015-01-13 21:02:58,877 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/3.11-beta2/poi-scratchpad-3.11-beta2.jar
+2015-01-13 21:02:58,979 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.11-beta2/poi-ooxml-3.11-beta2.jar
+2015-01-13 21:03:00,116 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.11-beta2/poi-ooxml-3.11-beta2.jar
+2015-01-13 21:03:00,246 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.11-beta2/poi-ooxml-schemas-3.11-beta2.jar
+2015-01-13 21:03:04,543 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.11-beta2/poi-ooxml-schemas-3.11-beta2.jar
+2015-01-13 21:03:04,656 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar
+2015-01-13 21:03:08,074 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar
+2015-01-13 21:03:08,182 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/googlecode/mp4parser/isoparser/1.0.2/isoparser-1.0.2.jar
+2015-01-13 21:03:08,935 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/googlecode/mp4parser/isoparser/1.0.2/isoparser-1.0.2.jar
+2015-01-13 21:03:09,038 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.8.0/aspectjrt-1.8.0.jar
+2015-01-13 21:03:09,284 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.8.0/aspectjrt-1.8.0.jar
+2015-01-13 21:03:09,458 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/rome/rome/1.0/rome-1.0.jar
+2015-01-13 21:03:09,886 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/rome/rome/1.0/rome-1.0.jar
+2015-01-13 21:03:09,988 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/gagravarr/vorbis-java-core/0.6/vorbis-java-core-0.6.jar
+2015-01-13 21:03:10,312 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/gagravarr/vorbis-java-core/0.6/vorbis-java-core-0.6.jar
+2015-01-13 21:03:10,413 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/pff/java-libpst/0.8.1/java-libpst-0.8.1.jar
+2015-01-13 21:03:10,727 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/pff/java-libpst/0.8.1/java-libpst-0.8.1.jar
+2015-01-13 21:03:10,846 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xalan/xalan/2.7.2/xalan-2.7.2.jar
+2015-01-13 21:03:15,672 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xalan/xalan/2.7.2/xalan-2.7.2.jar
+2015-01-13 21:03:15,778 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xalan/serializer/2.7.2/serializer-2.7.2.jar
+2015-01-13 21:03:16,306 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xalan/serializer/2.7.2/serializer-2.7.2.jar
+2015-01-13 21:03:16,410 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.8.1/jsoup-1.8.1.jar
+2015-01-13 21:03:16,951 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.8.1/jsoup-1.8.1.jar
+2015-01-13 21:03:17,056 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jodd/jodd-core/3.6.1/jodd-core-3.6.1.jar
+2015-01-13 21:03:17,645 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jodd/jodd-core/3.6.1/jodd-core-3.6.1.jar
+2015-01-13 21:03:17,752 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jodd/jodd-lagarto/3.6.1/jodd-lagarto-3.6.1.jar
+2015-01-13 21:03:18,130 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jodd/jodd-lagarto/3.6.1/jodd-lagarto-3.6.1.jar
+2015-01-13 21:03:18,232 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jodd/jodd-log/3.6.1/jodd-log-3.6.1.jar
+2015-01-13 21:03:18,447 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jodd/jodd-log/3.6.1/jodd-log-3.6.1.jar
+2015-01-13 21:03:18,675 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fifesoft/rsyntaxtextarea/2.5.3/rsyntaxtextarea-2.5.3.jar
+2015-01-13 21:03:19,723 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fifesoft/rsyntaxtextarea/2.5.3/rsyntaxtextarea-2.5.3.jar
+2015-01-13 21:03:25,181 [Worker-332] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 21:03:25,195 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 21:03:25,196 [Worker-332] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 21:03:25,196 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 21:03:28,406 [Worker-332] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 21:03:32,720 [Worker-332] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 21:03:32,721 [Worker-333] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 21:03:38,001 [Worker-332] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 21:03:38,002 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 21:03:38,002 [Worker-332] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 21:03:38,003 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 21:10:03,266 [Worker-327] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 21:10:14,378 [Worker-327] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 21:10:14,379 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 21:10:14,380 [Worker-327] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 21:10:14,381 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 21:10:15,797 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 21:10:15,797 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 21:10:15,799 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 21:10:15,799 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 22:06:21,946 [Worker-350] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:06:22,043 [Worker-350] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 22:06:22,095 [Worker-350] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:06:22,095 [Worker-350] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 22:22:48,868 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:22:48,871 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 22:22:48,873 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:22:48,873 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 22:27:50,297 [Worker-354] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:27:50,298 [Worker-354] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 22:27:50,299 [Worker-354] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:27:50,299 [Worker-354] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 22:28:17,886 [Worker-347] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:28:17,887 [Worker-347] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 22:28:17,889 [Worker-347] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:28:17,889 [Worker-347] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 22:29:45,824 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:29:45,824 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 22:29:45,826 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:29:45,826 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 22:29:49,193 [Worker-347] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:29:49,193 [Worker-347] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 22:29:49,194 [Worker-347] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:29:49,195 [Worker-347] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 22:32:13,641 [Worker-355] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:32:13,641 [Worker-355] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 22:32:13,642 [Worker-355] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:32:13,642 [Worker-355] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 22:45:22,605 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:45:22,606 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 22:45:22,606 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:45:22,607 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 22:51:56,582 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:51:56,631 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 22:51:56,632 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:51:56,632 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 22:52:04,029 [Worker-347] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:52:04,029 [Worker-347] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 22:52:04,030 [Worker-347] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:52:04,030 [Worker-347] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 22:53:55,532 [Worker-355] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:53:55,532 [Worker-355] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 22:53:55,533 [Worker-355] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:53:55,533 [Worker-355] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 22:59:15,118 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:59:15,118 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 22:59:15,120 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 22:59:15,120 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:01:18,619 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:01:18,629 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:01:18,630 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:01:18,630 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:05:05,507 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:05:05,507 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:05:05,509 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:05:05,509 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:08:36,783 [Worker-357] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:08:42,146 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:08:47,427 [Worker-357] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/jmeter/ApacheJMeter_components/2.12/ApacheJMeter_components-2.12.pom
+2015-01-13 23:08:48,159 [Worker-357] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter_components/2.12/ApacheJMeter_components-2.12.pom
+2015-01-13 23:08:48,366 [Worker-357] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter_components/2.12/ApacheJMeter_components-2.12.pom
+2015-01-13 23:08:49,130 [Worker-357] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/jmeter/ApacheJMeter_components/2.12/ApacheJMeter_components-2.12.jar
+2015-01-13 23:08:49,242 [Worker-357] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter_components/2.12/ApacheJMeter_components-2.12.jar
+2015-01-13 23:08:50,094 [Worker-357] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter_components/2.12/ApacheJMeter_components-2.12.jar
+2015-01-13 23:08:53,579 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:08:53,580 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:08:53,582 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:08:53,582 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:08:54,958 [Worker-359] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:08:55,240 [Worker-359] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:08:55,241 [Worker-359] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:08:55,242 [Worker-359] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:08:55,242 [Worker-359] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:10:07,175 [Worker-354] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:10:07,450 [Worker-354] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:10:08,545 [Worker-354] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/event/event/1.0/event-1.0.pom
+2015-01-13 23:10:08,551 [Worker-354] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for event:event:jar:1.0 is missing, no dependency information available
+2015-01-13 23:10:09,352 [Worker-354] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/event/event/1.0/event-1.0.jar
+2015-01-13 23:10:09,483 [Worker-354] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:10:09,483 [Worker-354] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:10:09,484 [Worker-354] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:10:09,484 [Worker-354] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:10:10,021 [Worker-367] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:10:10,199 [Worker-367] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for event:event:jar:1.0 is missing, no dependency information available
+2015-01-13 23:10:10,622 [Worker-353] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:10:10,950 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:10:11,131 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for event:event:jar:1.0 is missing, no dependency information available
+2015-01-13 23:10:11,329 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:10:11,330 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:10:11,331 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:10:11,331 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:11:24,706 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:11:24,757 [Worker-331] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:11:24,933 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:11:24,992 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for event:event:jar:1.0 is missing, no dependency information available
+2015-01-13 23:11:25,164 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for event:event:jar:1.0 is missing, no dependency information available
+2015-01-13 23:11:25,948 [Worker-353] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.jar
+2015-01-13 23:11:26,185 [Worker-353] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.jar
+2015-01-13 23:11:26,988 [Worker-353] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.jar
+2015-01-13 23:11:27,327 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:11:27,328 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:11:27,329 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:11:27,329 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:12:25,768 [Worker-362] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:12:25,811 [Worker-331] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:12:25,975 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:12:26,803 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:12:26,804 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:12:26,805 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:12:26,806 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:21:09,416 [Worker-368] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:21:10,009 [Worker-382] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:21:10,126 [Worker-382] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:21:15,468 [Worker-368] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/jmeter/ApacheJMeter/2.12/ApacheJMeter-2.12.pom
+2015-01-13 23:21:16,085 [Worker-368] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter/2.12/ApacheJMeter-2.12.pom
+2015-01-13 23:21:16,393 [Worker-368] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter/2.12/ApacheJMeter-2.12.pom
+2015-01-13 23:21:18,297 [Worker-382] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jade.tilab.com/maven/org/apache/jmeter/ApacheJMeter/2.12/ApacheJMeter-2.12.jar
+2015-01-13 23:21:18,418 [Worker-382] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter/2.12/ApacheJMeter-2.12.jar
+2015-01-13 23:21:19,347 [Worker-382] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jmeter/ApacheJMeter/2.12/ApacheJMeter-2.12.jar
+2015-01-13 23:21:20,455 [Worker-382] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:21:20,455 [Worker-382] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:21:20,456 [Worker-382] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:21:20,457 [Worker-382] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:21:43,548 [Worker-364] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-01-13 23:21:44,916 [Worker-364] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:21:45,013 [Worker-364] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:21:45,873 [Worker-364] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Agent/src/main/java
+2015-01-13 23:21:45,873 [Worker-364] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Agent/src/test/java
+2015-01-13 23:21:46,576 [Worker-364] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2015-01-13 23:21:46,822 [Worker-383] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:21:47,212 [Worker-383] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:21:47,213 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:21:47,214 [Worker-383] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:21:47,215 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:23:07,635 [Worker-357] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:23:10,923 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:23:10,923 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:23:10,924 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:23:10,924 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:23:16,268 [Worker-370] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:23:16,268 [Worker-370] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:23:16,269 [Worker-370] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:23:16,269 [Worker-370] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:23:25,324 [Worker-364] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:23:26,316 [Worker-364] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:23:29,949 [Worker-364] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:23:29,949 [Worker-364] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:23:29,950 [Worker-364] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:23:29,950 [Worker-364] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:23:41,183 [Worker-364] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:23:41,220 [Worker-347] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:23:41,378 [Worker-364] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:23:43,584 [Worker-364] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:23:43,585 [Worker-364] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:23:43,586 [Worker-364] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:23:43,586 [Worker-364] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:23:44,896 [Worker-370] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for d-haven-managed-pool:d-haven-managed-pool:jar:1.0 is missing, no dependency information available
+2015-01-13 23:23:45,325 [Worker-370] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:23:45,325 [Worker-370] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:23:45,326 [Worker-370] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:23:45,326 [Worker-370] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:24:14,341 [Worker-377] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:24:14,625 [Worker-377] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:24:14,626 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:24:14,627 [Worker-377] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:24:14,627 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:24:16,055 [Worker-380] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:24:16,055 [Worker-380] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:24:16,058 [Worker-380] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:24:16,058 [Worker-380] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:24:18,790 [Worker-385] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:24:18,790 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:24:18,791 [Worker-385] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:24:18,792 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:25:23,688 [Worker-357] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:25:24,349 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:25:24,350 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:25:24,351 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:25:24,351 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:25:56,175 [Worker-359] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:25:58,190 [Worker-359] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:25:58,190 [Worker-359] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:25:58,191 [Worker-359] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:25:58,192 [Worker-359] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:26:22,701 [Worker-381] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:26:22,701 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:26:22,702 [Worker-381] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:26:22,703 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:27:11,680 [Worker-386] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.nauber.iadapter:Agent:0.0.1-SNAPSHOT @ /Users/naubergois/iadapter/Agent/pom.xml.
+2015-01-13 23:27:12,058 [Worker-386] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:27:12,060 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:27:12,062 [Worker-386] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:27:12,063 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:28:17,992 [Worker-381] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:28:17,992 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:28:17,994 [Worker-381] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:28:17,994 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:28:30,286 [Worker-359] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:28:30,286 [Worker-359] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:28:30,288 [Worker-359] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:28:30,288 [Worker-359] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-13 23:35:46,553 [Worker-376] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:35:46,553 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-13 23:35:46,554 [Worker-376] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-13 23:35:46,554 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-14 08:22:28,506 [Worker-425] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:22:28,509 [Worker-425] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-14 08:22:28,510 [Worker-425] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:22:28,511 [Worker-425] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-14 08:23:53,757 [Worker-409] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:23:53,757 [Worker-409] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-14 08:23:53,758 [Worker-409] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:23:53,759 [Worker-409] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-14 08:24:21,651 [Worker-426] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:24:21,651 [Worker-426] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-14 08:24:21,652 [Worker-426] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:24:21,653 [Worker-426] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-14 08:25:00,206 [Worker-430] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:25:00,207 [Worker-430] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-14 08:25:00,208 [Worker-430] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:25:00,209 [Worker-430] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-14 08:28:47,721 [Worker-428] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:28:47,722 [Worker-428] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-14 08:28:47,723 [Worker-428] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:28:47,723 [Worker-428] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-14 08:29:04,667 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:29:04,668 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-14 08:29:04,669 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:29:04,670 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-14 08:30:36,089 [Worker-409] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:30:36,089 [Worker-409] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-14 08:30:36,090 [Worker-409] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:30:36,090 [Worker-409] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-14 08:34:35,519 [Worker-430] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:34:35,519 [Worker-430] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-14 08:34:35,520 [Worker-430] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:34:35,520 [Worker-430] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-14 08:38:15,418 [Worker-431] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:38:15,420 [Worker-431] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-14 08:38:15,422 [Worker-431] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:38:15,422 [Worker-431] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-14 08:58:49,356 [Worker-430] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:58:49,356 [Worker-430] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-14 08:58:49,357 [Worker-430] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:58:49,357 [Worker-430] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-14 08:58:51,859 [Worker-425] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:58:51,859 [Worker-425] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-14 08:58:51,860 [Worker-425] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 08:58:51,861 [Worker-425] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-14 09:00:10,561 [Worker-433] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 09:00:10,561 [Worker-433] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-14 09:00:10,563 [Worker-433] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 09:00:10,563 [Worker-433] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources
+2015-01-14 09:01:09,112 [Worker-427] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 09:01:09,113 [Worker-427] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/main/resources
+2015-01-14 09:01:09,114 [Worker-427] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-14 09:01:09,115 [Worker-427] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/naubergois/iadapter/Agent/src/test/resources

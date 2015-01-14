@@ -43,7 +43,7 @@ public class Judge extends Thread {
 			} else {
 
 				System.out.println("===================");
-				System.out.println("Ataque ganhou");
+				System.out.println("Defesa ganhou");
 				System.out.println("===================");
 				System.out.println(Game.atackPoint);
 				System.out.println("===================");

@@ -1,0 +1,14 @@
+package br.nauber.iadapter.function;
+
+public class JMeterThread extends Thread {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		super.run();
+	}
+	
+	
+	
+
+}

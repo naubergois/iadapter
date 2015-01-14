@@ -1,0 +1,61 @@
+package br.nauber.iadapter.function;
+
+import java.io.FileInputStream;
+
+import org.apache.jmeter.engine.StandardJMeterEngine;
+import org.apache.jmeter.save.SaveService;
+import org.apache.jmeter.util.JMeterUtils;
+import org.apache.jorphan.collections.HashTree;
+import org.jgap.IChromosome;
+
+public class JMeterRunner implements IRunner {
+
+	@Override
+	public double run(IChromosome chromosome) {
+
+		try {
+
+			// JMeter Engine
+			StandardJMeterEngine jmeter = new StandardJMeterEngine();
+
+			
+			IWorkspace workspace = ResourcesPlugin.getWorkspace();  
+
+			//get location of workspace (java.io.File)  
+			File workspaceDirectory = workspace.getRoot().getLocation().toFile()
+			// Initialize Properties, logging, locale, etc.
+			JMeterUtils
+					.loadJMeterProperties("/path/to/your/jmeter/bin/jmeter.properties");
+			JMeterUtils.setJMeterHome("/path/to/your/jmeter");
+			JMeterUtils.initLogging();// you can comment this line out to see
+										// extra log messages of i.e. DEBUG
+										// level
+			JMeterUtils.initLocale();
+
+			// Initialize JMeter SaveService
+			SaveService.loadProperties();
+
+			// Load existing .jmx Test Plan
+			FileInputStream in = new FileInputStream(
+					"/path/to/your/jmeter/extras/Test.jmx");
+			HashTree testPlanTree = SaveService.loadTree(in);
+			in.close();
+
+			// Run JMeter Test
+			jmeter.configure(testPlanTree);
+			jmeter.run();
+			// TODO Auto-generated method stub
+			return 0;
+		} catch (Exception e) {
+			e.printStackTrace();
+			return 0;
+		}
+	}
+
+	@Override
+	public double stop(IChromosome chromosome) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

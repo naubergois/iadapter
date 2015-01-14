@@ -1,0 +1,84 @@
+package br.nauber.iadapter.function;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.jgap.IChromosome;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class SeleniumRunner implements IRunner {
+
+	private static List<IScriptSelenium> listaScripts = new ArrayList();
+
+	public static List<IScriptSelenium> getListaScripts() {
+		return listaScripts;
+	}
+
+	public static void setListaScripts(List<IScriptSelenium> listaScripts) {
+		SeleniumRunner.listaScripts = listaScripts;
+	}
+
+	
+
+	@Override
+	public double run(IChromosome chromosome) {
+
+		List<ScriptSeleniumThread> threads = new ArrayList<ScriptSeleniumThread>();
+		long value = 0;
+		long max = 0;
+
+		for (int i = 0; i <= chromosome.size() - 2; i = i + 2) {
+			int script = (Integer) chromosome.getGenes()[i].getAllele();
+			int user = (Integer) chromosome.getGenes()[i + 1].getAllele();
+
+			IScriptSelenium scriptSelenium = SeleniumRunner.getListaScripts()
+					.get(script);
+
+			try {
+
+				for (int j = 0; j < user; j++) {
+					
+					System.out.println("===================");
+					System.out.println("User "+user);
+					System.out.println("===================");
+
+
+					ScriptSeleniumThread thread = new ScriptSeleniumThread(
+							scriptSelenium);
+
+					thread.start();
+					threads.add(thread);
+
+				}
+				int counter = 0;
+				while (counter <= threads.size() - 1) {
+					counter = 0;
+					for (ScriptSeleniumThread thread : threads) {
+
+						if (!(thread.isAlive())) {
+							value = thread.getTime();
+							if (value > max) {
+								max = value;
+							}
+							counter++;
+						}
+
+					}
+				}
+			} catch (Exception e) {
+				System.out.println("Erro no atacante");
+				e.printStackTrace();
+			}
+		}
+		return max;
+	}
+
+	@Override
+	public double stop(IChromosome chromosome) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
