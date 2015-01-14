@@ -93,7 +93,7 @@ public class JMeterThread extends Thread {
 										// extra log messages of i.e. DEBUG
 										// level
 			
-			ListenerJMeter listener=new ListenerJMeter();
+			JMeterListener listener=new JMeterListener();
 			JMeterUtils.initLocale();
 
 			//JMeterUtils.loadProperties(workingDir
@@ -105,6 +105,10 @@ public class JMeterThread extends Thread {
 			FileInputStream in = new FileInputStream(workingDir
 					+ "/apache-jmeter-2.12/script1.jmx");
 			HashTree testPlanTree = SaveService.loadTree(in);
+Object[] objects=testPlanTree.getArray();
+			
+			TestPlan plan=(TestPlan) objects[0];
+			plan.addTestElement(listener);
 			testPlanTree.add("monitor", listener);
 			in.close();
 
@@ -113,10 +117,7 @@ public class JMeterThread extends Thread {
 			jmeter.run();
 			
 			System.out.println(testPlanTree);
-			Object[] objects=testPlanTree.getArray();
-			
-			TestPlan plan=(TestPlan) objects[0];
-			
+		
 		
 			
 			

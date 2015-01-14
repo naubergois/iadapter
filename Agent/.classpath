@@ -23,7 +23,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="apache-jmeter-2.12/lib/ext/ApacheJMeter_components.jar"/>
-	<classpathentry kind="lib" path="apache-jmeter-2.12/lib/ext/ApacheJMeter_core.jar"/>
+	<classpathentry kind="lib" path="apache-jmeter-2.12/lib/ext/ApacheJMeter_core.jar" sourcepath="apache-jmeter-2.12/src"/>
 	<classpathentry kind="lib" path="apache-jmeter-2.12/lib/ext/ApacheJMeter_ftp.jar"/>
 	<classpathentry kind="lib" path="apache-jmeter-2.12/lib/ext/ApacheJMeter_functions.jar"/>
 	<classpathentry kind="lib" path="apache-jmeter-2.12/lib/ext/ApacheJMeter_http.jar"/>
