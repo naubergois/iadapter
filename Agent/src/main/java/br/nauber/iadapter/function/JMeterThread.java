@@ -14,11 +14,34 @@ import org.apache.jmeter.visualizers.ViewResultsFullVisualizer;
 import org.apache.jorphan.collections.HashTree;
 
 public class JMeterThread extends Thread {
+	
+	public JMeterThread(int users){
+		this.users=users;
+	}
 
 	private long time;
+	
+	private int users;
 
-	public JMeterThread(String script) {
+	public long getTime() {
+		return time;
+	}
+
+	public void setTime(long time) {
+		this.time = time;
+	}
+
+	public int getUsers() {
+		return users;
+	}
+
+	public void setUsers(int users) {
+		this.users = users;
+	}
+
+	public JMeterThread(String script,int users) {
 		this.scriptJMeter = script;
+		this.users=users;
 	}
 
 	private String scriptJMeter;
@@ -45,10 +68,12 @@ public class JMeterThread extends Thread {
 			// Initialize Properties, logging, locale, etc.
 			JMeterUtils.loadJMeterProperties(workingDir
 					+ "/apache-jmeter-2.12/bin/jmeter.properties");
-			JMeterUtils.setJMeterHome(workingDir + "/apache-jmeter-2.12/bin");
+			JMeterUtils.setJMeterHome(workingDir + "/apache-jmeter-2.12/");
 			JMeterUtils.initLogging();// you can comment this line out to see
 										// extra log messages of i.e. DEBUG
 										// level
+			
+			JMeterUtils.setProperty("Gthreads", String.valueOf(users));
 			JMeterUtils.initLocale();
 
 			// Initialize JMeter SaveService

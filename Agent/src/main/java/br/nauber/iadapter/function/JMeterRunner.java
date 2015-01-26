@@ -1,18 +1,42 @@
 package br.nauber.iadapter.function;
 
-import java.io.FileInputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.jmeter.engine.StandardJMeterEngine;
-import org.apache.jmeter.save.SaveService;
-import org.apache.jmeter.util.JMeterUtils;
-import org.apache.jorphan.collections.HashTree;
 import org.jgap.IChromosome;
 
 public class JMeterRunner implements IRunner {
-	
-	private static List<String> jmeterScript=new ArrayList<String>();
+
+	public JMeterRunner(List<String> scripts, String resultFileName,
+			int columnNumber) {
+		this.scripts = scripts;
+		this.resultFileName = resultFileName;
+		this.columnNumber = columnNumber;
+	}
+
+	private List<String> scripts = new ArrayList<String>();
+
+	private String resultFileName;
+
+	private int columnNumber;
+
+	public int getColumnNumber() {
+		return columnNumber;
+	}
+
+	public List<String> getScripts() {
+		return scripts;
+	}
+
+	public void setScripts(List<String> scripts) {
+		this.scripts = scripts;
+	}
+
+	public void setColumnNumber(int columnNumber) {
+		this.columnNumber = columnNumber;
+	}
+
+	private static List<String> jmeterScript = new ArrayList<String>();
 
 	public static List<String> getJmeterScript() {
 		return jmeterScript;
@@ -26,7 +50,7 @@ public class JMeterRunner implements IRunner {
 	public double run(IChromosome chromosome) {
 
 		try {
-			
+
 			List<JMeterThread> threads = new ArrayList<JMeterThread>();
 
 			for (int i = 0; i <= chromosome.size() - 2; i = i + 2) {
@@ -37,41 +61,36 @@ public class JMeterRunner implements IRunner {
 				System.out.println("Script " + script);
 				System.out.println("===================");
 
-				
-
-				String scriptJMeter = JMeterRunner
-						.getJmeterScript().get(script);
-				
-				
 				for (int j = 0; j < user; j++) {
 
 					System.out.println("===================");
 					System.out.println("User " + user);
 					System.out.println("===================");
-					
-					JMeterThread  thread = new JMeterThread(
-							scriptJMeter);
+
+					String scriptString = scripts.get(script);
+
+					JMeterThread thread = new JMeterThread(scriptString,user);
 
 					thread.start();
 					threads.add(thread);
 
 				}
-				
-				/*int counter = 0;
+
+				int counter = 0;
 				while (counter <= threads.size() - 1) {
 					counter = 0;
 					for (JMeterThread thread : threads) {
 
 						if (!(thread.isAlive())) {
-							value = thread.getTime();
-							if (value > max) {
-								max = value;
-							}
+
 							counter++;
 						}
 
 					}
-				}*/
+				}
+
+				ReadJMeterFile jmeterFile = new ReadJMeterFile();
+				jmeterFile.getMaxFile(resultFileName, columnNumber);
 
 			}
 
@@ -81,6 +100,14 @@ public class JMeterRunner implements IRunner {
 			e.printStackTrace();
 			return 0;
 		}
+	}
+
+	public String getResultFileName() {
+		return resultFileName;
+	}
+
+	public void setResultFileName(String resultFileName) {
+		this.resultFileName = resultFileName;
 	}
 
 	@Override

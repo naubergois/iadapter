@@ -318,7 +318,16 @@ public class Game {
 
 	public static void main(String[] args) throws InvalidConfigurationException {
 
-		Game.getRunnersAtack().add(new SeleniumRunner());
+		List<String> scripts = new ArrayList<String>();
+
+		String workingDir = System.getProperty("user.dir");
+
+		String script1 = workingDir + "/apache-jmeter-2.12/script1.jmx";
+
+		scripts.add(script1);
+
+		Game.getRunnersAtack().add(
+				new JMeterRunner(scripts, workingDir + "/teste.csv", 1));
 		Game.getRunnersDefend().add(new TomCatRunner());
 
 		List<TestGene> listDefend = new ArrayList();
@@ -327,8 +336,6 @@ public class Game {
 
 		List<TestGene> listAtack = new ArrayList();
 		listAtack.add(new ScriptGene(0, 1));
-
-		SeleniumRunner.getListaScripts().add(new ScriptLogin());
 
 		Game.init(listAtack, listDefend, 8, 2);
 
