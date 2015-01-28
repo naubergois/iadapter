@@ -317,6 +317,11 @@ public class Game {
 	}
 
 	public static void main(String[] args) throws InvalidConfigurationException {
+		
+		ExternalTomCat external=new ExternalTomCat();
+		
+		GenericRunner runner=new GenericRunner();
+		runner.setClasse(external);
 
 		List<String> scripts = new ArrayList<String>();
 
@@ -328,7 +333,7 @@ public class Game {
 
 		Game.getRunnersAtack().add(
 				new JMeterRunner(scripts, workingDir + "/teste.csv", 1));
-		Game.getRunnersDefend().add(new TomCatRunner());
+		Game.getRunnersDefend().add(runner);
 
 		List<TestGene> listDefend = new ArrayList();
 		listDefend.add(new IntGene(8080, 9090));
